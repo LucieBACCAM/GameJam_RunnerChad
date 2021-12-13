@@ -3478,3 +3478,79 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.12.13-12.50.32:749][240]LogSavePackage: Moving '../../../../GameJam_RunnerChad/GameJam_RunnerChad/GameJam_Runner/Saved/LVL_LightFA1811614CA789D26CD5AD84B700590E.tmp' to '../../../../GameJam_RunnerChad/GameJam_RunnerChad/GameJam_Runner/Content/LEVEL/MAP/LVL_Light.umap'
 [2021.12.13-12.50.32:761][240]AssetCheck: New page: Asset Save: LVL_Light
 [2021.12.13-12.50.32:761][240]LogContentValidation: Display: Validating World /Game/LEVEL/MAP/LVL_Light.LVL_Light
+[2021.12.13-12.55.30:787][306]LogActorFactory: Actor Factory created Plane
+[2021.12.13-12.55.31:324][370]LogActorFactory: Actor Factory created Plane
+[2021.12.13-12.55.49:349][421]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2021.12.13-12.55.58:963][567]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Plane)
+[2021.12.13-12.56.00:218][680]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.12.13-12.56.00:220][680]PIE: New page: PIE session: RunnerChad_Main (13 déc. 2021 à 14:56:00)
+[2021.12.13-12.56.00:222][680]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2021.12.13-12.56.00:224][680]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2021.12.13-12.56.00:226][680]LogPlayLevel: Creating play world package: /Game/LEVEL/MAP/UEDPIE_0_RunnerChad_Main
+[2021.12.13-12.56.00:229][680]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002352s)
+[2021.12.13-12.56.00:230][680]LogAIModule: Creating AISystem for world RunnerChad_Main
+[2021.12.13-12.56.00:231][680]LogPlayLevel: PIE: World Init took: (0.002156s)
+[2021.12.13-12.56.00:231][680]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/LEVEL/MAP/RunnerChad_Main.RunnerChad_Main to /Game/LEVEL/MAP/UEDPIE_0_RunnerChad_Main.RunnerChad_Main (0.004677s)
+[2021.12.13-12.56.00:246][680]LogUObjectHash: Compacting FUObjectHashTables data took   1.53ms
+[2021.12.13-12.56.00:250][680]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2021.12.13-12.56.00:250][680]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.12.13-12.56.00:250][680]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.12.13-12.56.00:250][680]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.12.13-12.56.00:250][680]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.12.13-12.56.00:250][680]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.12.13-12.56.00:250][680]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.12.13-12.56.00:250][680]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.12.13-12.56.00:250][680]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.12.13-12.56.00:250][680]LogAudio: Display: Using built-in audio occlusion.
+[2021.12.13-12.56.00:250][680]LogAudioMixer: Display: Initializing audio mixer.
+[2021.12.13-12.56.00:254][680]LogAudioMixer: Display: 0: FrontLeft
+[2021.12.13-12.56.00:254][680]LogAudioMixer: Display: 1: FrontRight
+[2021.12.13-12.56.00:282][680]LogAudioMixer: Display: Using Audio Device Haut-parleurs (Realtek(R) Audio)
+[2021.12.13-12.56.00:283][680]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.12.13-12.56.00:283][680]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.12.13-12.56.00:283][680]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.12.13-12.56.00:283][680]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.12.13-12.56.00:283][680]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.12.13-12.56.00:283][680]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.12.13-12.56.00:296][680]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.12.13-12.56.00:296][680]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.12.13-12.56.00:296][680]LogInit: FAudioDevice initialized.
+[2021.12.13-12.56.00:296][680]LogAudio: Display: Audio Device (ID: 2) registered with world 'RunnerChad_Main'.
+[2021.12.13-12.56.00:312][680]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2021.12.13-12.56.00:358][680]LogWorld: Bringing World /Game/LEVEL/MAP/UEDPIE_0_RunnerChad_Main.RunnerChad_Main up for play (max tick rate 0) at 2021.12.13-13.56.00
+[2021.12.13-12.56.00:365][680]LogWorld: Bringing up level for play took: 0.007356
+[2021.12.13-12.56.00:385][680]LogOnline: OSS: Creating online subsystem instance for: :Context_14
+[2021.12.13-12.56.00:407][680]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'MovieSceneCapture' in 0.0008 seconds. Added 20 classes and 0 folders.
+[2021.12.13-12.56.00:429][680]PIE: Server logged in
+[2021.12.13-12.56.00:433][680]PIE: Play in editor total start time 0,22 seconds.
+[2021.12.13-12.56.01:473][766]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.12.13-12.56.01:473][766]LogWorld: BeginTearingDown for /Game/LEVEL/MAP/UEDPIE_0_RunnerChad_Main
+[2021.12.13-12.56.01:473][766]LogWorld: UWorld::CleanupWorld for RunnerChad_Main, bSessionEnded=true, bCleanupResources=true
+[2021.12.13-12.56.01:473][766]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.13-12.56.01:485][766]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.12.13-12.56.01:500][766]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.13-12.56.01:520][766]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.12.13-12.56.01:520][766]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.12.13-12.56.01:521][766]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.12.13-12.56.01:539][766]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.12.13-12.56.01:574][766]LogUObjectHash: Compacting FUObjectHashTables data took   2.38ms
+[2021.12.13-12.56.01:599][767]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2021.12.13-12.56.11:342][894]LogUObjectHash: Compacting FUObjectHashTables data took   1.83ms
+[2021.12.13-12.56.11:347][894]LogSavePackage: Moving '../../../../GameJam_RunnerChad/GameJam_RunnerChad/GameJam_Runner/Saved/LVL_Light800AD0204332A043AE9859B930FEC2F0.tmp' to '../../../../GameJam_RunnerChad/GameJam_RunnerChad/GameJam_Runner/Content/LEVEL/MAP/LVL_Light.umap'
+[2021.12.13-12.56.11:386][894]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2021.12.13-12.56.11:388][894]LogSavePackage: Moving '../../../../GameJam_RunnerChad/GameJam_RunnerChad/GameJam_Runner/Saved/RunnerChad_MainD8CC942B4EC93C5653833E81AF48391F.tmp' to '../../../../GameJam_RunnerChad/GameJam_RunnerChad/GameJam_Runner/Content/LEVEL/MAP/RunnerChad_Main.umap'
+[2021.12.13-12.56.11:447][894]LogUObjectHash: Compacting FUObjectHashTables data took   1.54ms
+[2021.12.13-12.56.11:449][894]LogSavePackage: Moving '../../../../GameJam_RunnerChad/GameJam_RunnerChad/GameJam_Runner/Saved/LVL_Graph75AE25B7459717BB52F2C882301FEEAF.tmp' to '../../../../GameJam_RunnerChad/GameJam_RunnerChad/GameJam_Runner/Content/LEVEL/MAP/LVL_Graph.umap'
+[2021.12.13-12.56.11:475][894]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/LEVEL/MAP/LVL_LD" FILE="../../../../GameJam_RunnerChad/GameJam_RunnerChad/GameJam_Runner/Content/LEVEL/MAP/LVL_LD.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.12.13-12.56.11:488][894]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2021.12.13-12.56.11:489][894]LogSavePackage: Moving '../../../../GameJam_RunnerChad/GameJam_RunnerChad/GameJam_Runner/Saved/LVL_LD307C37C24579563C698DC2AE16A9FB5C.tmp' to '../../../../GameJam_RunnerChad/GameJam_RunnerChad/GameJam_Runner/Content/LEVEL/MAP/LVL_LD.umap'
+[2021.12.13-12.56.11:632][894]AssetCheck: New page: Asset Save: multiple assets
+[2021.12.13-12.56.11:632][894]LogContentValidation: Display: Validating World /Game/LEVEL/MAP/LVL_LD.LVL_LD
+[2021.12.13-12.56.11:632][894]LogContentValidation: Display: Validating World /Game/LEVEL/MAP/LVL_Light.LVL_Light
+[2021.12.13-12.56.11:632][894]LogContentValidation: Display: Validating World /Game/LEVEL/MAP/RunnerChad_Main.RunnerChad_Main
+[2021.12.13-12.56.11:632][894]LogContentValidation: Display: Validating World /Game/LEVEL/MAP/LVL_Graph.LVL_Graph
+[2021.12.13-12.56.12:641][ 11]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/LEVEL/MAP/LVL_LD" FILE="../../../../GameJam_RunnerChad/GameJam_RunnerChad/GameJam_Runner/Content/LEVEL/MAP/LVL_LD.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.12.13-12.56.12:654][ 11]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2021.12.13-12.56.12:656][ 11]LogSavePackage: Moving '../../../../GameJam_RunnerChad/GameJam_RunnerChad/GameJam_Runner/Saved/LVL_LD60D0AD1B4C67A99BB23388A489559A2E.tmp' to '../../../../GameJam_RunnerChad/GameJam_RunnerChad/GameJam_Runner/Content/LEVEL/MAP/LVL_LD.umap'
+[2021.12.13-12.56.12:666][ 11]AssetCheck: New page: Asset Save: LVL_LD
+[2021.12.13-12.56.12:666][ 11]LogContentValidation: Display: Validating World /Game/LEVEL/MAP/LVL_LD.LVL_LD
