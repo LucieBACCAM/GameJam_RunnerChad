@@ -1110,3 +1110,252 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.12.13-10.38.25:350][385]LogContentBrowser: Creating deferred item: NewFolder
 [2021.12.13-10.38.29:588][887]LogContentBrowser: Attempting asset rename: NewFolder -> TechArt
 [2021.12.13-10.38.29:588][887]LogContentBrowser: End creating deferred item NewFolder
+[2021.12.13-10.38.36:387][612]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2021.12.13-10.38.36:401][612]LogContentBrowser: Creating deferred item: NewFolder
+[2021.12.13-10.38.37:861][781]LogContentBrowser: Attempting asset rename: NewFolder -> Lucie
+[2021.12.13-10.38.37:861][781]LogContentBrowser: End creating deferred item NewFolder
+[2021.12.13-10.38.40:078][  2]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2021.12.13-10.38.40:100][  2]LogContentBrowser: Creating deferred item: NewFolder
+[2021.12.13-10.38.42:144][241]LogContentBrowser: Attempting asset rename: NewFolder -> Maxime
+[2021.12.13-10.38.42:144][241]LogContentBrowser: End creating deferred item NewFolder
+[2021.12.13-10.38.43:884][420]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2021.12.13-10.38.43:902][420]LogContentBrowser: Creating deferred item: NewFolder
+[2021.12.13-10.38.45:770][638]LogContentBrowser: Attempting asset rename: NewFolder -> Theo
+[2021.12.13-10.38.45:770][638]LogContentBrowser: End creating deferred item NewFolder
+[2021.12.13-10.38.47:631][832]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2021.12.13-10.38.47:652][832]LogContentBrowser: Creating deferred item: NewFolder
+[2021.12.13-10.38.49:443][ 41]LogContentBrowser: Attempting asset rename: NewFolder -> Julien
+[2021.12.13-10.38.49:443][ 41]LogContentBrowser: End creating deferred item NewFolder
+[2021.12.13-10.38.51:337][236]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2021.12.13-10.38.51:351][236]LogContentBrowser: Creating deferred item: NewFolder
+[2021.12.13-10.38.53:602][500]LogContentBrowser: Attempting asset rename: NewFolder -> Vincent
+[2021.12.13-10.38.53:602][500]LogContentBrowser: End creating deferred item NewFolder
+[2021.12.13-10.38.57:188][877]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2021.12.13-10.38.57:203][877]LogContentBrowser: Creating deferred item: NewFolder
+[2021.12.13-10.39.49:031][ 58]LogContentBrowser: Attempting asset rename: NewFolder -> Assets
+[2021.12.13-10.39.49:031][ 58]LogContentBrowser: End creating deferred item NewFolder
+[2021.12.13-10.39.51:327][301]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2021.12.13-10.39.51:334][301]LogContentBrowser: Creating deferred item: NewFolder
+[2021.12.13-10.39.53:099][495]LogContentBrowser: Attempting asset rename: NewFolder -> Modules
+[2021.12.13-10.39.53:099][495]LogContentBrowser: End creating deferred item NewFolder
+[2021.12.13-10.39.58:086][979]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2021.12.13-10.39.58:093][979]LogContentBrowser: Creating deferred item: NewFolder
+[2021.12.13-10.40.00:635][272]LogContentBrowser: Attempting asset rename: NewFolder -> Textures
+[2021.12.13-10.40.00:635][272]LogContentBrowser: End creating deferred item NewFolder
+[2021.12.13-10.40.02:585][465]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2021.12.13-10.40.02:605][465]LogContentBrowser: Creating deferred item: NewFolder
+[2021.12.13-10.40.02:784][480]LogContentBrowser: Attempting asset rename: NewFolder -> NewFolder
+[2021.12.13-10.40.02:784][480]LogContentBrowser: End creating deferred item NewFolder
+[2021.12.13-10.40.08:237][ 46]LogContentBrowser: Attempting asset rename: NewFolder -> Material
+[2021.12.13-10.40.10:502][280]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2021.12.13-10.40.10:522][280]LogContentBrowser: Creating deferred item: NewFolder
+[2021.12.13-10.40.11:941][444]LogContentBrowser: Attempting asset rename: NewFolder -> Mesh
+[2021.12.13-10.40.11:941][444]LogContentBrowser: End creating deferred item NewFolder
+[2021.12.13-10.40.15:308][811]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2021.12.13-10.40.15:323][811]LogContentBrowser: Creating deferred item: NewFolder
+[2021.12.13-10.40.19:427][297]LogContentBrowser: Attempting asset rename: NewFolder -> Materials
+[2021.12.13-10.40.19:428][297]LogContentBrowser: End creating deferred item NewFolder
+[2021.12.13-10.40.21:246][481]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2021.12.13-10.40.21:257][481]LogContentBrowser: Creating deferred item: NewFolder
+[2021.12.13-10.40.23:325][723]LogContentBrowser: Attempting asset rename: NewFolder -> Textures
+[2021.12.13-10.40.23:325][723]LogContentBrowser: End creating deferred item NewFolder
+[2021.12.13-10.40.25:356][939]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2021.12.13-10.40.25:375][939]LogContentBrowser: Creating deferred item: NewFolder
+[2021.12.13-10.40.26:891][115]LogContentBrowser: Attempting asset rename: NewFolder -> Mesh
+[2021.12.13-10.40.26:892][115]LogContentBrowser: End creating deferred item NewFolder
+[2021.12.13-10.40.49:608][288]LogContentBrowser: Deferred new asset file creation: NewStringTable
+[2021.12.13-10.40.49:614][288]LogContentBrowser: Creating deferred item: NewStringTable
+[2021.12.13-10.40.55:200][930]LogContentBrowser: Attempting asset rename: NewStringTable -> NotEmpty
+[2021.12.13-10.40.55:204][930]LogContentBrowser: End creating deferred item NewStringTable
+[2021.12.13-10.41.01:039][540]LogContentBrowser: Deferred new asset file creation: NotEmpty1
+[2021.12.13-10.41.01:060][540]LogContentBrowser: Creating deferred item: NotEmpty1
+[2021.12.13-10.41.01:608][592]LogContentBrowser: Attempting asset rename: NotEmpty1 -> NotEmpty1
+[2021.12.13-10.41.01:612][592]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.13-10.41.01:612][592]LogContentBrowser: End creating deferred item NotEmpty1
+[2021.12.13-10.41.04:979][909]LogSlate: Took 0.000122 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.12.13-10.41.05:029][909]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ENV/Modules/Mesh/NotEmpty1" FILE="../../../../GameJam_RunnerChad/GameJam_RunnerChad/GameJam_Runner/Content/ENV/Modules/Mesh/NotEmpty1.uasset" SILENT=true
+[2021.12.13-10.41.05:030][909]LogSavePackage: Moving '../../../../GameJam_RunnerChad/GameJam_RunnerChad/GameJam_Runner/Saved/NotEmpty1E81DEFD444613B3EED86EF9EEC0D3EFB.tmp' to '../../../../GameJam_RunnerChad/GameJam_RunnerChad/GameJam_Runner/Content/ENV/Modules/Mesh/NotEmpty1.uasset'
+[2021.12.13-10.41.05:104][909]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2021.12.13-10.41.05:118][909]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2021.12.13-10.41.05:123][909]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2021.12.13-10.41.05:155][909]AssetCheck: New page: Asset Save: NotEmpty1
+[2021.12.13-10.41.05:155][909]LogContentValidation: Display: Validating StringTable /Game/ENV/Modules/Mesh/NotEmpty1.NotEmpty1
+[2021.12.13-10.41.07:479][ 91]LogContentBrowser: Deferred new asset file creation: NotEmpty1
+[2021.12.13-10.41.07:510][ 91]LogContentBrowser: Creating deferred item: NotEmpty1
+[2021.12.13-10.41.07:887][123]LogContentBrowser: Attempting asset rename: NotEmpty1 -> NotEmpty1
+[2021.12.13-10.41.07:888][123]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.13-10.41.07:888][123]LogContentBrowser: End creating deferred item NotEmpty1
+[2021.12.13-10.41.10:946][386]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ENV/Modules/Textures/NotEmpty1" FILE="../../../../GameJam_RunnerChad/GameJam_RunnerChad/GameJam_Runner/Content/ENV/Modules/Textures/NotEmpty1.uasset" SILENT=true
+[2021.12.13-10.41.10:947][386]LogSavePackage: Moving '../../../../GameJam_RunnerChad/GameJam_RunnerChad/GameJam_Runner/Saved/NotEmpty1F8E5F3564D150649879BA7A860981B36.tmp' to '../../../../GameJam_RunnerChad/GameJam_RunnerChad/GameJam_Runner/Content/ENV/Modules/Textures/NotEmpty1.uasset'
+[2021.12.13-10.41.10:999][386]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2021.12.13-10.41.11:009][386]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2021.12.13-10.41.11:013][386]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2021.12.13-10.41.11:039][386]AssetCheck: New page: Asset Save: NotEmpty1
+[2021.12.13-10.41.11:039][386]LogContentValidation: Display: Validating StringTable /Game/ENV/Modules/Textures/NotEmpty1.NotEmpty1
+[2021.12.13-10.41.15:523][766]LogContentBrowser: Deferred new asset file creation: NotEmpty1
+[2021.12.13-10.41.15:561][766]LogContentBrowser: Creating deferred item: NotEmpty1
+[2021.12.13-10.41.16:265][838]LogContentBrowser: Attempting asset rename: NotEmpty1 -> NotEmpty1
+[2021.12.13-10.41.16:265][838]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.13-10.41.16:265][838]LogContentBrowser: End creating deferred item NotEmpty1
+[2021.12.13-10.41.19:397][116]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ENV/Assets/Material/NotEmpty1" FILE="../../../../GameJam_RunnerChad/GameJam_RunnerChad/GameJam_Runner/Content/ENV/Assets/Material/NotEmpty1.uasset" SILENT=true
+[2021.12.13-10.41.19:398][116]LogSavePackage: Moving '../../../../GameJam_RunnerChad/GameJam_RunnerChad/GameJam_Runner/Saved/NotEmpty1A88771954FFC45D95572148607A73970.tmp' to '../../../../GameJam_RunnerChad/GameJam_RunnerChad/GameJam_Runner/Content/ENV/Assets/Material/NotEmpty1.uasset'
+[2021.12.13-10.41.19:431][116]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2021.12.13-10.41.19:442][116]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2021.12.13-10.41.19:446][116]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2021.12.13-10.41.19:471][116]AssetCheck: New page: Asset Save: NotEmpty1
+[2021.12.13-10.41.19:471][116]LogContentValidation: Display: Validating StringTable /Game/ENV/Assets/Material/NotEmpty1.NotEmpty1
+[2021.12.13-10.41.21:347][256]LogContentBrowser: Deferred new asset file creation: NotEmpty1
+[2021.12.13-10.41.21:395][256]LogContentBrowser: Creating deferred item: NotEmpty1
+[2021.12.13-10.41.21:920][307]LogContentBrowser: Attempting asset rename: NotEmpty1 -> NotEmpty1
+[2021.12.13-10.41.21:920][307]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.13-10.41.21:921][307]LogContentBrowser: End creating deferred item NotEmpty1
+[2021.12.13-10.41.24:552][537]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ENV/Assets/Mesh/NotEmpty1" FILE="../../../../GameJam_RunnerChad/GameJam_RunnerChad/GameJam_Runner/Content/ENV/Assets/Mesh/NotEmpty1.uasset" SILENT=true
+[2021.12.13-10.41.24:552][537]LogSavePackage: Moving '../../../../GameJam_RunnerChad/GameJam_RunnerChad/GameJam_Runner/Saved/NotEmpty18E29940F4451DEA024ED8EB26863F475.tmp' to '../../../../GameJam_RunnerChad/GameJam_RunnerChad/GameJam_Runner/Content/ENV/Assets/Mesh/NotEmpty1.uasset'
+[2021.12.13-10.41.24:598][537]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2021.12.13-10.41.24:609][537]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2021.12.13-10.41.24:613][537]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2021.12.13-10.41.24:638][537]AssetCheck: New page: Asset Save: NotEmpty1
+[2021.12.13-10.41.24:638][537]LogContentValidation: Display: Validating StringTable /Game/ENV/Assets/Mesh/NotEmpty1.NotEmpty1
+[2021.12.13-10.42.52:309][387]LogContentBrowser: Deferred new asset file creation: NotEmpty2
+[2021.12.13-10.42.52:332][387]LogContentBrowser: Creating deferred item: NotEmpty2
+[2021.12.13-10.42.52:647][418]LogContentBrowser: Attempting asset rename: NotEmpty2 -> NotEmpty2
+[2021.12.13-10.42.52:647][418]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.13-10.42.52:647][418]LogContentBrowser: End creating deferred item NotEmpty2
+[2021.12.13-10.42.57:169][796]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ENV/Assets/Textures/NotEmpty2" FILE="../../../../GameJam_RunnerChad/GameJam_RunnerChad/GameJam_Runner/Content/ENV/Assets/Textures/NotEmpty2.uasset" SILENT=true
+[2021.12.13-10.42.57:169][796]LogSavePackage: Moving '../../../../GameJam_RunnerChad/GameJam_RunnerChad/GameJam_Runner/Saved/NotEmpty2A99276BF42D8A006D64589A9532BCE67.tmp' to '../../../../GameJam_RunnerChad/GameJam_RunnerChad/GameJam_Runner/Content/ENV/Assets/Textures/NotEmpty2.uasset'
+[2021.12.13-10.42.57:205][796]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2021.12.13-10.42.57:216][796]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2021.12.13-10.42.57:220][796]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2021.12.13-10.42.57:245][796]AssetCheck: New page: Asset Save: NotEmpty2
+[2021.12.13-10.42.57:245][796]LogContentValidation: Display: Validating StringTable /Game/ENV/Assets/Textures/NotEmpty2.NotEmpty2
+[2021.12.13-10.43.03:252][402]LogContentBrowser: Deferred new asset file creation: NotEmpty3
+[2021.12.13-10.43.03:267][402]LogContentBrowser: Creating deferred item: NotEmpty3
+[2021.12.13-10.43.03:562][425]LogContentBrowser: Attempting asset rename: NotEmpty3 -> NotEmpty3
+[2021.12.13-10.43.03:563][425]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.13-10.43.03:563][425]LogContentBrowser: End creating deferred item NotEmpty3
+[2021.12.13-10.43.06:036][609]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Developper/Julien/NotEmpty3" FILE="../../../../GameJam_RunnerChad/GameJam_RunnerChad/GameJam_Runner/Content/Developper/Julien/NotEmpty3.uasset" SILENT=true
+[2021.12.13-10.43.06:036][609]LogSavePackage: Moving '../../../../GameJam_RunnerChad/GameJam_RunnerChad/GameJam_Runner/Saved/NotEmpty3BC064B424943D7208106DDB87001BA6B.tmp' to '../../../../GameJam_RunnerChad/GameJam_RunnerChad/GameJam_Runner/Content/Developper/Julien/NotEmpty3.uasset'
+[2021.12.13-10.43.06:073][609]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2021.12.13-10.43.06:083][609]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2021.12.13-10.43.06:087][609]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2021.12.13-10.43.06:112][609]AssetCheck: New page: Asset Save: NotEmpty3
+[2021.12.13-10.43.06:112][609]LogContentValidation: Display: Validating StringTable /Game/Developper/Julien/NotEmpty3.NotEmpty3
+[2021.12.13-10.43.08:493][812]LogContentBrowser: Deferred new asset file creation: NotEmpty3
+[2021.12.13-10.43.08:517][812]LogContentBrowser: Creating deferred item: NotEmpty3
+[2021.12.13-10.43.09:107][871]LogContentBrowser: Attempting asset rename: NotEmpty3 -> NotEmpty3
+[2021.12.13-10.43.09:107][871]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.13-10.43.09:107][871]LogContentBrowser: End creating deferred item NotEmpty3
+[2021.12.13-10.43.11:237][ 61]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Developper/Lucie/NotEmpty3" FILE="../../../../GameJam_RunnerChad/GameJam_RunnerChad/GameJam_Runner/Content/Developper/Lucie/NotEmpty3.uasset" SILENT=true
+[2021.12.13-10.43.11:237][ 61]LogSavePackage: Moving '../../../../GameJam_RunnerChad/GameJam_RunnerChad/GameJam_Runner/Saved/NotEmpty3D47966F54D65F61E8174B799C5F984A3.tmp' to '../../../../GameJam_RunnerChad/GameJam_RunnerChad/GameJam_Runner/Content/Developper/Lucie/NotEmpty3.uasset'
+[2021.12.13-10.43.11:273][ 61]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2021.12.13-10.43.11:284][ 61]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2021.12.13-10.43.11:288][ 61]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2021.12.13-10.43.11:315][ 61]AssetCheck: New page: Asset Save: NotEmpty3
+[2021.12.13-10.43.11:315][ 61]LogContentValidation: Display: Validating StringTable /Game/Developper/Lucie/NotEmpty3.NotEmpty3
+[2021.12.13-10.43.13:160][216]LogContentBrowser: Deferred new asset file creation: NotEmpty3
+[2021.12.13-10.43.13:184][216]LogContentBrowser: Creating deferred item: NotEmpty3
+[2021.12.13-10.43.13:525][245]LogContentBrowser: Attempting asset rename: NotEmpty3 -> NotEmpty3
+[2021.12.13-10.43.13:525][245]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.13-10.43.13:525][245]LogContentBrowser: End creating deferred item NotEmpty3
+[2021.12.13-10.43.15:435][414]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Developper/Maxime/NotEmpty3" FILE="../../../../GameJam_RunnerChad/GameJam_RunnerChad/GameJam_Runner/Content/Developper/Maxime/NotEmpty3.uasset" SILENT=true
+[2021.12.13-10.43.15:436][414]LogSavePackage: Moving '../../../../GameJam_RunnerChad/GameJam_RunnerChad/GameJam_Runner/Saved/NotEmpty3C9077CAE4104BCE7EA8719A0D6B96EB9.tmp' to '../../../../GameJam_RunnerChad/GameJam_RunnerChad/GameJam_Runner/Content/Developper/Maxime/NotEmpty3.uasset'
+[2021.12.13-10.43.15:472][414]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2021.12.13-10.43.15:482][414]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2021.12.13-10.43.15:486][414]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2021.12.13-10.43.15:511][414]AssetCheck: New page: Asset Save: NotEmpty3
+[2021.12.13-10.43.15:511][414]LogContentValidation: Display: Validating StringTable /Game/Developper/Maxime/NotEmpty3.NotEmpty3
+[2021.12.13-10.43.17:503][567]LogContentBrowser: Deferred new asset file creation: NotEmpty3
+[2021.12.13-10.43.17:534][567]LogContentBrowser: Creating deferred item: NotEmpty3
+[2021.12.13-10.43.17:898][602]LogContentBrowser: Attempting asset rename: NotEmpty3 -> NotEmpty3
+[2021.12.13-10.43.17:898][602]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.13-10.43.17:899][602]LogContentBrowser: End creating deferred item NotEmpty3
+[2021.12.13-10.43.20:736][808]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Developper/Theo/NotEmpty3" FILE="../../../../GameJam_RunnerChad/GameJam_RunnerChad/GameJam_Runner/Content/Developper/Theo/NotEmpty3.uasset" SILENT=true
+[2021.12.13-10.43.20:736][808]LogSavePackage: Moving '../../../../GameJam_RunnerChad/GameJam_RunnerChad/GameJam_Runner/Saved/NotEmpty3FAFB521842C58246A07A1CB6B1F8CFFE.tmp' to '../../../../GameJam_RunnerChad/GameJam_RunnerChad/GameJam_Runner/Content/Developper/Theo/NotEmpty3.uasset'
+[2021.12.13-10.43.20:772][808]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2021.12.13-10.43.20:782][808]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2021.12.13-10.43.20:787][808]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2021.12.13-10.43.20:812][808]AssetCheck: New page: Asset Save: NotEmpty3
+[2021.12.13-10.43.20:812][808]LogContentValidation: Display: Validating StringTable /Game/Developper/Theo/NotEmpty3.NotEmpty3
+[2021.12.13-10.43.28:041][519]LogContentBrowser: Deferred new asset file creation: NotEmpty3
+[2021.12.13-10.43.28:086][519]LogContentBrowser: Creating deferred item: NotEmpty3
+[2021.12.13-10.43.28:492][555]LogContentBrowser: Attempting asset rename: NotEmpty3 -> NotEmpty3
+[2021.12.13-10.43.28:492][555]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.13-10.43.28:492][555]LogContentBrowser: End creating deferred item NotEmpty3
+[2021.12.13-10.43.30:536][719]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Developper/Vincent/NotEmpty3" FILE="../../../../GameJam_RunnerChad/GameJam_RunnerChad/GameJam_Runner/Content/Developper/Vincent/NotEmpty3.uasset" SILENT=true
+[2021.12.13-10.43.30:536][719]LogSavePackage: Moving '../../../../GameJam_RunnerChad/GameJam_RunnerChad/GameJam_Runner/Saved/NotEmpty38EAE50324E39CCAA1286769BB94D8680.tmp' to '../../../../GameJam_RunnerChad/GameJam_RunnerChad/GameJam_Runner/Content/Developper/Vincent/NotEmpty3.uasset'
+[2021.12.13-10.43.30:574][719]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2021.12.13-10.43.30:584][719]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2021.12.13-10.43.30:588][719]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2021.12.13-10.43.30:613][719]AssetCheck: New page: Asset Save: NotEmpty3
+[2021.12.13-10.43.30:613][719]LogContentValidation: Display: Validating StringTable /Game/Developper/Vincent/NotEmpty3.NotEmpty3
+[2021.12.13-10.43.52:581][290]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2021.12.13-10.43.52:602][290]LogContentBrowser: Creating deferred item: NewFolder
+[2021.12.13-10.43.55:035][576]LogContentBrowser: Attempting asset rename: NewFolder -> LEVEL
+[2021.12.13-10.43.55:035][576]LogContentBrowser: End creating deferred item NewFolder
+[2021.12.13-10.43.57:355][808]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2021.12.13-10.43.57:370][808]LogContentBrowser: Creating deferred item: NewFolder
+[2021.12.13-10.43.58:606][944]LogContentBrowser: Attempting asset rename: NewFolder -> MAP
+[2021.12.13-10.43.58:606][944]LogContentBrowser: End creating deferred item NewFolder
+[2021.12.13-10.44.38:775][672]LogContentBrowser: Deferred new asset file creation: NewWorld
+[2021.12.13-10.44.38:782][672]LogContentBrowser: Creating deferred item: NewWorld
+[2021.12.13-10.44.49:015][892]LogContentBrowser: Attempting asset rename: NewWorld -> RunnerChad_Main
+[2021.12.13-10.44.49:020][892]LogContentBrowser: End creating deferred item NewWorld
+[2021.12.13-10.44.50:375][ 42]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2021.12.13-10.44.53:154][ 42]LogSlate: Window 'Save Content' being destroyed
+[2021.12.13-10.44.53:184][ 42]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ENV/Modules/Materials/NotEmpty" FILE="../../../../GameJam_RunnerChad/GameJam_RunnerChad/GameJam_Runner/Content/ENV/Modules/Materials/NotEmpty.uasset" SILENT=true
+[2021.12.13-10.44.53:185][ 42]LogSavePackage: Moving '../../../../GameJam_RunnerChad/GameJam_RunnerChad/GameJam_Runner/Saved/NotEmpty3ABD28A3487ADFF121AAAF82345B3CC7.tmp' to '../../../../GameJam_RunnerChad/GameJam_RunnerChad/GameJam_Runner/Content/ENV/Modules/Materials/NotEmpty.uasset'
+[2021.12.13-10.44.53:191][ 42]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2021.12.13-10.44.53:193][ 42]LogSavePackage: Moving '../../../../GameJam_RunnerChad/GameJam_RunnerChad/GameJam_Runner/Saved/RunnerChad_MainCCD20B43433E6C7AECFB439007EBABC9.tmp' to '../../../../GameJam_RunnerChad/GameJam_RunnerChad/GameJam_Runner/Content/LEVEL/MAP/RunnerChad_Main.umap'
+[2021.12.13-10.44.53:193][ 42]LogFileHelpers: Saving map 'RunnerChad_Main' took 0.008
+[2021.12.13-10.44.53:228][ 42]LogAssetEditorSubsystem: Opening Asset editor for World /Game/LEVEL/MAP/RunnerChad_Main.RunnerChad_Main
+[2021.12.13-10.44.53:229][ 42]Cmd: MAP LOAD FILE="../../../../GameJam_RunnerChad/GameJam_RunnerChad/GameJam_Runner/Content/LEVEL/MAP/RunnerChad_Main.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.12.13-10.44.53:229][ 42]LightingResults: New page: Lighting Build
+[2021.12.13-10.44.53:229][ 42]LoadErrors: New page: Loading map: RunnerChad_Main.umap
+[2021.12.13-10.44.53:232][ 42]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.12.13-10.44.53:233][ 42]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.13-10.44.53:233][ 42]MapCheck: New page: Map Check
+[2021.12.13-10.44.53:233][ 42]LightingResults: New page: Lighting Build
+[2021.12.13-10.44.53:238][ 42]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.12.13-10.44.53:249][ 42]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2021.12.13-10.44.53:250][ 42]LogAudio: Display: Audio Device (ID: 1) registered with world 'RunnerChad_Main'.
+[2021.12.13-10.44.53:250][ 42]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.12.13-10.44.53:250][ 42]LogAIModule: Creating AISystem for world RunnerChad_Main
+[2021.12.13-10.44.53:256][ 42]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2021.12.13-10.44.53:257][ 42]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.12.13-10.44.53:258][ 42]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,089ms to complete.
+[2021.12.13-10.44.53:258][ 42]LogFileHelpers: Loading map 'RunnerChad_Main' took 0.030
+[2021.12.13-10.44.53:268][ 42]AssetCheck: New page: Asset Save: multiple assets
+[2021.12.13-10.44.53:268][ 42]LogContentValidation: Display: Validating StringTable /Game/ENV/Modules/Materials/NotEmpty.NotEmpty
+[2021.12.13-10.44.53:268][ 42]LogContentValidation: Display: Validating World /Game/LEVEL/MAP/RunnerChad_Main.RunnerChad_Main
+[2021.12.13-10.45.25:494][329]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'WorldBrowser' in 0.0002 seconds. Added 2 classes and 3 folders.
+[2021.12.13-10.45.27:684][569]LogSlate: Window 'Levels' being destroyed
+[2021.12.13-10.45.50:853][911]LogSlate: Window 'Env. Light Mixer' being destroyed
+[2021.12.13-10.46.06:156][176]LogSlate: Window 'New Level' being destroyed
+[2021.12.13-10.46.29:134][176]LogSlate: Window 'Save Level As' being destroyed
+[2021.12.13-10.46.29:173][176]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2021.12.13-10.46.29:174][176]LogSavePackage: Moving '../../../../GameJam_RunnerChad/GameJam_RunnerChad/GameJam_Runner/Saved/LVL_Light0E293CD44B2C8288674AD6B96C3FCC6F.tmp' to '../../../../GameJam_RunnerChad/GameJam_RunnerChad/GameJam_Runner/Content/LEVEL/MAP/LVL_Light.umap'
+[2021.12.13-10.46.29:189][176]LogFileHelpers: Saving map 'LVL_Light' took 0.045
+[2021.12.13-10.46.29:255][176]AssetCheck: New page: Asset Save: LVL_Light
+[2021.12.13-10.46.29:255][176]LogContentValidation: Display: Validating World /Game/LEVEL/MAP/LVL_Light.LVL_Light
+[2021.12.13-10.46.35:417][639]LogSlate: Window 'New Level' being destroyed
+[2021.12.13-10.46.38:747][639]LogSlate: Window 'Save Level As' being destroyed
+[2021.12.13-10.46.38:763][639]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/LEVEL/MAP/LVL_LD" FILE="../../../../GameJam_RunnerChad/GameJam_RunnerChad/GameJam_Runner/Content/LEVEL/MAP/LVL_LD.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.12.13-10.46.38:768][639]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2021.12.13-10.46.38:770][639]LogSavePackage: Moving '../../../../GameJam_RunnerChad/GameJam_RunnerChad/GameJam_Runner/Saved/LVL_LD45E9DFA8462689EC2CC0EC9DE99E9D65.tmp' to '../../../../GameJam_RunnerChad/GameJam_RunnerChad/GameJam_Runner/Content/LEVEL/MAP/LVL_LD.umap'
+[2021.12.13-10.46.38:777][639]LogFileHelpers: Saving map 'LVL_LD' took 0.023
+[2021.12.13-10.46.38:822][639]AssetCheck: New page: Asset Save: LVL_LD
+[2021.12.13-10.46.38:822][639]LogContentValidation: Display: Validating World /Game/LEVEL/MAP/LVL_LD.LVL_LD
+[2021.12.13-10.46.41:495][821]LogSlate: Window 'New Level' being destroyed
+[2021.12.13-10.46.48:319][821]LogSlate: Window 'Save Level As' being destroyed
+[2021.12.13-10.46.48:353][821]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2021.12.13-10.46.48:354][821]LogSavePackage: Moving '../../../../GameJam_RunnerChad/GameJam_RunnerChad/GameJam_Runner/Saved/LVL_Graph43DC0F544C9287635171698B16B17AAB.tmp' to '../../../../GameJam_RunnerChad/GameJam_RunnerChad/GameJam_Runner/Content/LEVEL/MAP/LVL_Graph.umap'
+[2021.12.13-10.46.48:361][821]LogFileHelpers: Saving map 'LVL_Graph' took 0.035
+[2021.12.13-10.46.48:403][821]AssetCheck: New page: Asset Save: LVL_Graph
+[2021.12.13-10.46.48:403][821]LogContentValidation: Display: Validating World /Game/LEVEL/MAP/LVL_Graph.LVL_Graph
+[2021.12.13-10.46.50:082][  1]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2021.12.13-10.46.51:236][  1]LogSlate: Window 'Save Content' being destroyed
+[2021.12.13-10.46.51:269][  1]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2021.12.13-10.46.51:271][  1]LogSavePackage: Moving '../../../../GameJam_RunnerChad/GameJam_RunnerChad/GameJam_Runner/Saved/RunnerChad_Main999F71B6487797E52601AFA24963446D.tmp' to '../../../../GameJam_RunnerChad/GameJam_RunnerChad/GameJam_Runner/Content/LEVEL/MAP/RunnerChad_Main.umap'
+[2021.12.13-10.46.51:273][  1]LogFileHelpers: Saving map 'RunnerChad_Main' took 0.007
+[2021.12.13-10.46.51:286][  1]AssetCheck: New page: Asset Save: RunnerChad_Main
+[2021.12.13-10.46.51:286][  1]LogContentValidation: Display: Validating World /Game/LEVEL/MAP/RunnerChad_Main.RunnerChad_Main
