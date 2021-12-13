@@ -2613,3 +2613,868 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.12.13-11.24.32:088][ 66]LogSlate: Window 'MasterShadder_Transparency' being destroyed
 [2021.12.13-11.24.32:098][ 66]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
 [2021.12.13-11.24.32:099][ 66]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.13-11.25.01:575][454]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2021.12.13-11.25.01:598][454]LogAssetEditorSubsystem: Opening Asset editor for World /Game/LEVEL/MAP/LVL_Graph.LVL_Graph
+[2021.12.13-11.25.01:598][454]Cmd: MAP LOAD FILE="../../../../GameJam_RunnerChad/GameJam_RunnerChad/GameJam_Runner/Content/LEVEL/MAP/LVL_Graph.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.12.13-11.25.01:598][454]LightingResults: New page: Lighting Build
+[2021.12.13-11.25.01:599][454]LoadErrors: New page: Loading map: LVL_Graph.umap
+[2021.12.13-11.25.01:627][454]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.12.13-11.25.01:627][454]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.13-11.25.01:629][454]MapCheck: New page: Map Check
+[2021.12.13-11.25.01:629][454]LightingResults: New page: Lighting Build
+[2021.12.13-11.25.01:643][454]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.12.13-11.25.01:653][454]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2021.12.13-11.25.01:668][454]LogAudio: Display: Audio Device (ID: 1) registered with world 'LVL_Graph'.
+[2021.12.13-11.25.01:711][454]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.12.13-11.25.01:712][454]LogAIModule: Creating AISystem for world LVL_Graph
+[2021.12.13-11.25.01:718][454]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2021.12.13-11.25.01:724][454]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.12.13-11.25.01:724][454]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,074ms to complete.
+[2021.12.13-11.25.01:724][454]LogFileHelpers: Loading map 'LVL_Graph' took 0.127
+[2021.12.13-11.25.09:458][297]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2021.12.13-11.25.09:479][297]LogAssetEditorSubsystem: Opening Asset editor for World /Game/LEVEL/MAP/RunnerChad_Main.RunnerChad_Main
+[2021.12.13-11.25.09:479][297]Cmd: MAP LOAD FILE="../../../../GameJam_RunnerChad/GameJam_RunnerChad/GameJam_Runner/Content/LEVEL/MAP/RunnerChad_Main.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.12.13-11.25.09:479][297]LightingResults: New page: Lighting Build
+[2021.12.13-11.25.09:479][297]LoadErrors: New page: Loading map: RunnerChad_Main.umap
+[2021.12.13-11.25.09:526][297]LogWorld: UWorld::CleanupWorld for LVL_Graph, bSessionEnded=true, bCleanupResources=true
+[2021.12.13-11.25.09:526][297]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.13-11.25.09:526][297]MapCheck: New page: Map Check
+[2021.12.13-11.25.09:526][297]LightingResults: New page: Lighting Build
+[2021.12.13-11.25.09:531][297]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.12.13-11.25.09:531][297]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2021.12.13-11.25.09:531][297]LogAudio: Display: Audio Device (ID: 1) registered with world 'RunnerChad_Main'.
+[2021.12.13-11.25.09:532][297]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/LEVEL/MAP/LVL_Graph) is flushing async loading
+[2021.12.13-11.25.09:532][297]LogStreaming: Display: FlushAsyncLoading: 1 QueuedPackages, 0 AsyncPackages
+[2021.12.13-11.25.09:534][297]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/LEVEL/MAP/LVL_LD) is flushing async loading
+[2021.12.13-11.25.09:534][297]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/LEVEL/MAP/LVL_Light) is flushing async loading
+[2021.12.13-11.25.09:576][297]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.12.13-11.25.09:576][297]LogAIModule: Creating AISystem for world RunnerChad_Main
+[2021.12.13-11.25.09:582][297]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2021.12.13-11.25.09:588][297]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.12.13-11.25.09:589][297]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,149ms to complete.
+[2021.12.13-11.25.09:589][297]LogFileHelpers: Loading map 'RunnerChad_Main' took 0.111
+[2021.12.13-11.25.40:310][900]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/TechArt/MasterShadder_Material.MasterShadder_Material
+[2021.12.13-11.25.40:311][900]LogMaterial: Display: Missing cached shader map for material MasterShadder_Material, compiling. 
+[2021.12.13-11.25.40:431][900]LogMaterial: Display: Missing cached shader map for material MasterShadder_Material, compiling. 
+[2021.12.13-11.25.40:436][900]LogMaterial: Display: Missing cached shader map for material MasterShadder_Material, compiling. 
+[2021.12.13-11.25.40:445][900]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 9
+[2021.12.13-11.25.40:445][900]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 8
+[2021.12.13-11.25.40:446][900]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_1, compiling. 
+[2021.12.13-11.25.40:449][900]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_2, compiling. 
+[2021.12.13-11.25.40:452][900]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_3, compiling. 
+[2021.12.13-11.25.41:062][941]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 19
+[2021.12.13-11.25.41:179][953]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 18
+[2021.12.13-11.25.41:372][971]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 17
+[2021.12.13-11.25.41:664][999]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 16
+[2021.12.13-11.25.41:894][ 21]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 15
+[2021.12.13-11.25.41:987][ 30]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 14
+[2021.12.13-11.25.42:510][ 77]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 13
+[2021.12.13-11.25.42:582][ 84]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 12
+[2021.12.13-11.25.42:876][110]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 11
+[2021.12.13-11.25.42:884][110]MaterialEditorStats: Base pass shader: 120 instructions
+[2021.12.13-11.25.42:885][110]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 194 instructions
+[2021.12.13-11.25.42:885][110]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2021.12.13-11.25.42:885][110]MaterialEditorStats: Texture samplers: 2/16
+[2021.12.13-11.25.42:949][115]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 10
+[2021.12.13-11.25.43:313][143]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 9
+[2021.12.13-11.25.43:418][154]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 8
+[2021.12.13-11.25.43:659][175]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 7
+[2021.12.13-11.25.43:797][185]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 6
+[2021.12.13-11.25.44:143][210]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 5
+[2021.12.13-11.25.44:276][220]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 4
+[2021.12.13-11.25.44:589][243]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 3
+[2021.12.13-11.25.44:675][250]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 2
+[2021.12.13-11.25.45:055][278]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 1
+[2021.12.13-11.26.01:712][107]LogEditor: Attempting to add actor of class 'SkyLight' to level at 0.00,0.00,0.00
+[2021.12.13-11.26.04:549][415]LogEditor: Attempting to add actor of class 'VolumetricCloud' to level at 0.00,0.00,0.00
+[2021.12.13-11.26.05:101][467]LogEditor: Attempting to add actor of class 'DirectionalLight' to level at 0.00,0.00,0.00
+[2021.12.13-11.26.05:472][504]LogEditor: Attempting to add actor of class 'DirectionalLight' to level at 0.00,0.00,0.00
+[2021.12.13-11.26.06:099][566]LogEditor: Attempting to add actor of class 'SkyAtmosphere' to level at 0.00,0.00,0.00
+[2021.12.13-11.26.30:350][931]Cmd: DELETE
+[2021.12.13-11.26.30:350][931]Cmd: ACTOR DELETE
+[2021.12.13-11.26.30:353][931]LogEditorActor: Deleted Actor: VolumetricCloud
+[2021.12.13-11.26.30:358][931]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2021.12.13-11.26.30:360][931]LogEditorActor: Deleted 1 Actors (0.008 secs)
+[2021.12.13-11.26.35:730][519]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Engine/EngineSky/BP_Sky_Sphere.BP_Sky_Sphere
+[2021.12.13-11.26.36:207][519]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'BlueprintGraph' in 0.0005 seconds. Added 126 classes and 0 folders.
+[2021.12.13-11.26.54:278][443]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2021.12.13-11.28.51:237][573]LogAssetEditorSubsystem: Opening Asset editor for CurveLinearColor /Engine/EngineSky/C_Sky_Horizon_Color.C_Sky_Horizon_Color
+[2021.12.13-11.35.09:792][258]LogUObjectHash: Compacting FUObjectHashTables data took   3.50ms
+[2021.12.13-11.35.09:799][258]LogSavePackage: Moving '../../../../GameJam_RunnerChad/GameJam_RunnerChad/GameJam_Runner/Saved/LVL_Light_Auto1116B67C5479BA03CE489F7AC8ECECAEC.tmp' to '../../../../GameJam_RunnerChad/GameJam_RunnerChad/GameJam_Runner/Saved/Autosaves/Game/LEVEL/MAP/LVL_Light_Auto1.umap'
+[2021.12.13-11.35.09:800][258]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/LEVEL/MAP/RunnerChad_Main' took 0.055
+[2021.12.13-11.35.09:800][258]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.055
+[2021.12.13-11.42.26:628][561]LogAudioMixer: Warning: Changing default audio render device to new device: .
+[2021.12.13-11.42.26:628][561]LogAudioMixer: Resetting audio stream to device id 
+[2021.12.13-11.42.26:628][561]LogAudioMixer: Display: StartRunningNullDevice() called
+[2021.12.13-11.52.38:880][386]LogAudioMixer: Warning: Changing default audio render device to new device: .
+[2021.12.13-11.52.38:880][386]LogAudioMixer: Resetting audio stream to device id 
+[2021.12.13-11.52.38:881][386]LogAudioMixer: Display: StopRunningNullDevice() called
+[2021.12.13-11.52.38:903][386]LogAudioMixer: Display: 0: FrontLeft
+[2021.12.13-11.52.38:904][386]LogAudioMixer: Display: 1: FrontRight
+[2021.12.13-12.08.17:856][187]LogAudioMixer: Warning: Changing default audio render device to new device: .
+[2021.12.13-12.08.17:856][187]LogAudioMixer: Resetting audio stream to device id 
+[2021.12.13-12.08.17:857][187]LogAudioMixer: Display: StartRunningNullDevice() called
+[2021.12.13-12.16.29:753][654]LogAudioMixer: Warning: Changing default audio render device to new device: .
+[2021.12.13-12.16.29:753][654]LogAudioMixer: Resetting audio stream to device id 
+[2021.12.13-12.16.29:753][654]LogAudioMixer: Display: StopRunningNullDevice() called
+[2021.12.13-12.16.29:767][654]LogAudioMixer: Display: 0: FrontLeft
+[2021.12.13-12.16.29:767][654]LogAudioMixer: Display: 1: FrontRight
+[2021.12.13-12.26.24:960][429]LogAudioMixer: Warning: Changing default audio render device to new device: .
+[2021.12.13-12.26.24:960][429]LogAudioMixer: Resetting audio stream to device id 
+[2021.12.13-12.26.24:963][429]LogAudioMixer: Display: StartRunningNullDevice() called
+[2021.12.13-12.28.40:169][832]LogAudioMixer: Warning: Changing default audio render device to new device: .
+[2021.12.13-12.28.40:169][832]LogAudioMixer: Resetting audio stream to device id 
+[2021.12.13-12.28.40:169][832]LogAudioMixer: Display: StopRunningNullDevice() called
+[2021.12.13-12.28.40:187][832]LogAudioMixer: Display: 0: FrontLeft
+[2021.12.13-12.28.40:188][832]LogAudioMixer: Display: 1: FrontRight
+[2021.12.13-12.29.29:110][526]Cmd: OBJ SAVEPACKAGE PACKAGE="/Engine/EngineSky/C_Sky_Horizon_Color" FILE="../../../Engine/Content/EngineSky/C_Sky_Horizon_Color.uasset" SILENT=true
+[2021.12.13-12.29.29:112][526]LogSavePackage: Moving '../../../../GameJam_RunnerChad/GameJam_RunnerChad/GameJam_Runner/Saved/C_Sky_Horizon_Color0D9AEB4A4CDEFEC606AAE0A4AF654EA3.tmp' to '../../../Engine/Content/EngineSky/C_Sky_Horizon_Color.uasset'
+[2021.12.13-12.29.29:129][526]AssetCheck: New page: Asset Save: C_Sky_Horizon_Color
+[2021.12.13-12.29.29:129][526]LogContentValidation: Display: Validating CurveLinearColor /Engine/EngineSky/C_Sky_Horizon_Color.C_Sky_Horizon_Color
+[2021.12.13-12.29.36:158][268]LogAssetEditorSubsystem: Opening Asset editor for CurveLinearColor /Engine/EngineSky/C_Sky_Zenith_Color.C_Sky_Zenith_Color
+[2021.12.13-12.29.51:677][100]Cmd: OBJ SAVEPACKAGE PACKAGE="/Engine/EngineSky/C_Sky_Zenith_Color" FILE="../../../Engine/Content/EngineSky/C_Sky_Zenith_Color.uasset" SILENT=true
+[2021.12.13-12.29.51:678][100]LogSavePackage: Moving '../../../../GameJam_RunnerChad/GameJam_RunnerChad/GameJam_Runner/Saved/C_Sky_Zenith_Color2476DB5D46576BCDD8A02BA54535FBAA.tmp' to '../../../Engine/Content/EngineSky/C_Sky_Zenith_Color.uasset'
+[2021.12.13-12.29.51:692][100]AssetCheck: New page: Asset Save: C_Sky_Zenith_Color
+[2021.12.13-12.29.51:692][100]LogContentValidation: Display: Validating CurveLinearColor /Engine/EngineSky/C_Sky_Zenith_Color.C_Sky_Zenith_Color
+[2021.12.13-12.29.54:880][434]Cmd: OBJ SAVEPACKAGE PACKAGE="/Engine/EngineSky/BP_Sky_Sphere" FILE="../../../Engine/Content/EngineSky/BP_Sky_Sphere.uasset" SILENT=true
+[2021.12.13-12.29.54:934][434]LogSavePackage: Moving '../../../../GameJam_RunnerChad/GameJam_RunnerChad/GameJam_Runner/Saved/BP_Sky_Sphere939719114082B9B69A6EB4B7E6F920CD.tmp' to '../../../Engine/Content/EngineSky/BP_Sky_Sphere.uasset'
+[2021.12.13-12.29.54:951][434]AssetCheck: New page: Asset Save: BP_Sky_Sphere
+[2021.12.13-12.29.54:951][434]LogContentValidation: Display: Validating Blueprint /Engine/EngineSky/BP_Sky_Sphere.BP_Sky_Sphere
+[2021.12.13-12.29.55:361][474]BlueprintLog: New page: Compile BP_Sky_Sphere
+[2021.12.13-12.29.55:424][474]LogUObjectHash: Compacting FUObjectHashTables data took   2.77ms
+[2021.12.13-12.30.10:538][ 98]Cmd: DELETE
+[2021.12.13-12.30.10:538][ 98]Cmd: ACTOR DELETE
+[2021.12.13-12.30.10:539][ 98]LogEditorActor: Deleted Actor: DirectionalLight
+[2021.12.13-12.30.10:563][ 98]LogUObjectHash: Compacting FUObjectHashTables data took   2.57ms
+[2021.12.13-12.30.10:566][ 98]LogEditorActor: Deleted 1 Actors (0.027 secs)
+[2021.12.13-12.30.31:556][432]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2021.12.13-12.31.14:023][967]LogSlate: Window 'Color Picker' being destroyed
+[2021.12.13-12.31.18:824][514]LogSlate: Window 'Color Picker' being destroyed
+[2021.12.13-12.31.22:531][944]LogSlate: Window 'Color Picker' being destroyed
+[2021.12.13-12.31.31:441][989]LogSlate: Window 'Color Picker' being destroyed
+[2021.12.13-12.31.38:741][842]LogSlate: Window 'Color Picker' being destroyed
+[2021.12.13-12.31.44:867][543]LogSlate: Window 'Color Picker' being destroyed
+[2021.12.13-12.31.47:928][883]Cmd: OBJ SAVEPACKAGE PACKAGE="/Engine/EngineSky/C_Sky_Horizon_Color" FILE="../../../Engine/Content/EngineSky/C_Sky_Horizon_Color.uasset" SILENT=true
+[2021.12.13-12.31.47:929][883]LogSavePackage: Moving '../../../../GameJam_RunnerChad/GameJam_RunnerChad/GameJam_Runner/Saved/C_Sky_Horizon_Color97E70EBD4FB13FB9B3E071B0EDED98BD.tmp' to '../../../Engine/Content/EngineSky/C_Sky_Horizon_Color.uasset'
+[2021.12.13-12.31.47:940][883]AssetCheck: New page: Asset Save: C_Sky_Horizon_Color
+[2021.12.13-12.31.47:940][883]LogContentValidation: Display: Validating CurveLinearColor /Engine/EngineSky/C_Sky_Horizon_Color.C_Sky_Horizon_Color
+[2021.12.13-12.31.49:621][ 47]BlueprintLog: New page: Compile BP_Sky_Sphere
+[2021.12.13-12.31.49:707][ 47]LogUObjectHash: Compacting FUObjectHashTables data took   2.17ms
+[2021.12.13-12.32.00:346][224]Cmd: OBJ SAVEPACKAGE PACKAGE="/Engine/EngineSky/C_Sky_Horizon_Color" FILE="../../../Engine/Content/EngineSky/C_Sky_Horizon_Color.uasset" SILENT=true
+[2021.12.13-12.32.00:347][224]LogSavePackage: Moving '../../../../GameJam_RunnerChad/GameJam_RunnerChad/GameJam_Runner/Saved/C_Sky_Horizon_Color135B6E37427285BCEA0AC7BCAA7DD182.tmp' to '../../../Engine/Content/EngineSky/C_Sky_Horizon_Color.uasset'
+[2021.12.13-12.32.00:357][224]AssetCheck: New page: Asset Save: C_Sky_Horizon_Color
+[2021.12.13-12.32.00:357][224]LogContentValidation: Display: Validating CurveLinearColor /Engine/EngineSky/C_Sky_Horizon_Color.C_Sky_Horizon_Color
+[2021.12.13-12.32.01:855][361]BlueprintLog: New page: Compile BP_Sky_Sphere
+[2021.12.13-12.32.01:911][361]LogUObjectHash: Compacting FUObjectHashTables data took   2.73ms
+[2021.12.13-12.32.09:279][150]Cmd: OBJ SAVEPACKAGE PACKAGE="/Engine/EngineSky/C_Sky_Horizon_Color" FILE="../../../Engine/Content/EngineSky/C_Sky_Horizon_Color.uasset" SILENT=true
+[2021.12.13-12.32.09:280][150]LogSavePackage: Moving '../../../../GameJam_RunnerChad/GameJam_RunnerChad/GameJam_Runner/Saved/C_Sky_Horizon_ColorA1C863DE4CBB7DFB067707901AC4D6A1.tmp' to '../../../Engine/Content/EngineSky/C_Sky_Horizon_Color.uasset'
+[2021.12.13-12.32.09:291][150]AssetCheck: New page: Asset Save: C_Sky_Horizon_Color
+[2021.12.13-12.32.09:291][150]LogContentValidation: Display: Validating CurveLinearColor /Engine/EngineSky/C_Sky_Horizon_Color.C_Sky_Horizon_Color
+[2021.12.13-12.32.10:528][270]BlueprintLog: New page: Compile BP_Sky_Sphere
+[2021.12.13-12.32.10:584][270]LogUObjectHash: Compacting FUObjectHashTables data took   2.78ms
+[2021.12.13-12.32.18:865][162]BlueprintLog: New page: Compile BP_Sky_Sphere
+[2021.12.13-12.32.18:922][162]LogUObjectHash: Compacting FUObjectHashTables data took   2.72ms
+[2021.12.13-12.32.21:454][421]Cmd: OBJ SAVEPACKAGE PACKAGE="/Engine/EngineSky/BP_Sky_Sphere" FILE="../../../Engine/Content/EngineSky/BP_Sky_Sphere.uasset" SILENT=true
+[2021.12.13-12.32.21:506][421]LogSavePackage: Moving '../../../../GameJam_RunnerChad/GameJam_RunnerChad/GameJam_Runner/Saved/BP_Sky_SphereDD2EF51D44AEAD8DE9A52D938BEC2564.tmp' to '../../../Engine/Content/EngineSky/BP_Sky_Sphere.uasset'
+[2021.12.13-12.32.21:518][421]AssetCheck: New page: Asset Save: BP_Sky_Sphere
+[2021.12.13-12.32.21:518][421]LogContentValidation: Display: Validating Blueprint /Engine/EngineSky/BP_Sky_Sphere.BP_Sky_Sphere
+[2021.12.13-12.32.37:901][190]BlueprintLog: New page: Compile BP_Sky_Sphere
+[2021.12.13-12.32.37:958][190]LogUObjectHash: Compacting FUObjectHashTables data took   3.09ms
+[2021.12.13-12.33.14:505][835]LogSlate: Window 'Color Picker' being destroyed
+[2021.12.13-12.33.16:651][ 72]Cmd: OBJ SAVEPACKAGE PACKAGE="/Engine/EngineSky/C_Sky_Zenith_Color" FILE="../../../Engine/Content/EngineSky/C_Sky_Zenith_Color.uasset" SILENT=true
+[2021.12.13-12.33.16:651][ 72]LogSavePackage: Moving '../../../../GameJam_RunnerChad/GameJam_RunnerChad/GameJam_Runner/Saved/C_Sky_Zenith_Color2FE30F8E485B3081C75D96BD4383E5AA.tmp' to '../../../Engine/Content/EngineSky/C_Sky_Zenith_Color.uasset'
+[2021.12.13-12.33.16:661][ 72]AssetCheck: New page: Asset Save: C_Sky_Zenith_Color
+[2021.12.13-12.33.16:662][ 72]LogContentValidation: Display: Validating CurveLinearColor /Engine/EngineSky/C_Sky_Zenith_Color.C_Sky_Zenith_Color
+[2021.12.13-12.33.18:716][284]BlueprintLog: New page: Compile BP_Sky_Sphere
+[2021.12.13-12.33.18:772][284]LogUObjectHash: Compacting FUObjectHashTables data took   2.71ms
+[2021.12.13-12.33.31:933][810]Cmd: OBJ SAVEPACKAGE PACKAGE="/Engine/EngineSky/C_Sky_Horizon_Color" FILE="../../../Engine/Content/EngineSky/C_Sky_Horizon_Color.uasset" SILENT=true
+[2021.12.13-12.33.31:934][810]LogSavePackage: Moving '../../../../GameJam_RunnerChad/GameJam_RunnerChad/GameJam_Runner/Saved/C_Sky_Horizon_ColorE50FF5F54A16388915301B8821C205C4.tmp' to '../../../Engine/Content/EngineSky/C_Sky_Horizon_Color.uasset'
+[2021.12.13-12.33.31:944][810]AssetCheck: New page: Asset Save: C_Sky_Horizon_Color
+[2021.12.13-12.33.31:944][810]LogContentValidation: Display: Validating CurveLinearColor /Engine/EngineSky/C_Sky_Horizon_Color.C_Sky_Horizon_Color
+[2021.12.13-12.33.33:767][  2]BlueprintLog: New page: Compile BP_Sky_Sphere
+[2021.12.13-12.33.33:824][  2]LogUObjectHash: Compacting FUObjectHashTables data took   2.71ms
+[2021.12.13-12.33.42:918][ 19]Cmd: OBJ SAVEPACKAGE PACKAGE="/Engine/EngineSky/C_Sky_Horizon_Color" FILE="../../../Engine/Content/EngineSky/C_Sky_Horizon_Color.uasset" SILENT=true
+[2021.12.13-12.33.42:918][ 19]LogSavePackage: Moving '../../../../GameJam_RunnerChad/GameJam_RunnerChad/GameJam_Runner/Saved/C_Sky_Horizon_Color23CE0B794D2DE1197E6EE7BAE8051966.tmp' to '../../../Engine/Content/EngineSky/C_Sky_Horizon_Color.uasset'
+[2021.12.13-12.33.42:931][ 19]AssetCheck: New page: Asset Save: C_Sky_Horizon_Color
+[2021.12.13-12.33.42:931][ 19]LogContentValidation: Display: Validating CurveLinearColor /Engine/EngineSky/C_Sky_Horizon_Color.C_Sky_Horizon_Color
+[2021.12.13-12.33.44:287][152]BlueprintLog: New page: Compile BP_Sky_Sphere
+[2021.12.13-12.33.44:343][152]LogUObjectHash: Compacting FUObjectHashTables data took   2.79ms
+[2021.12.13-12.34.12:161][910]LogUObjectHash: Compacting FUObjectHashTables data took   2.68ms
+[2021.12.13-12.34.12:166][910]LogSavePackage: Moving '../../../../GameJam_RunnerChad/GameJam_RunnerChad/GameJam_Runner/Saved/LVL_Light_Auto25DE458FB47BB8E554F26189DD57A90BF.tmp' to '../../../../GameJam_RunnerChad/GameJam_RunnerChad/GameJam_Runner/Saved/Autosaves/Game/LEVEL/MAP/LVL_Light_Auto2.umap'
+[2021.12.13-12.34.12:166][910]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/LEVEL/MAP/RunnerChad_Main' took 0.029
+[2021.12.13-12.34.12:166][910]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.029
+[2021.12.13-12.34.12:169][910]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Engine/EngineSky/BP_Sky_Sphere] ([1] browsable assets)...
+[2021.12.13-12.34.12:176][910]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Engine/EngineSky/BP_Sky_Sphere.BP_Sky_Sphere]
+[2021.12.13-12.34.12:176][910]OBJ SavePackage: Finished generating thumbnails for package [/Engine/EngineSky/BP_Sky_Sphere]
+[2021.12.13-12.34.12:228][910]LogSavePackage: Moving '../../../../GameJam_RunnerChad/GameJam_RunnerChad/GameJam_Runner/Saved/BP_Sky_Sphere_Auto2013395F04895DCA86D37E1BD953CD654.tmp' to '../../../../GameJam_RunnerChad/GameJam_RunnerChad/GameJam_Runner/Saved/Autosaves/Engine/EngineSky/BP_Sky_Sphere_Auto2.uasset'
+[2021.12.13-12.34.12:228][910]LogFileHelpers: Auto-saving content packages took 0.062
+[2021.12.13-12.34.12:906][973]BlueprintLog: New page: Compile BP_Sky_Sphere
+[2021.12.13-12.34.12:961][973]LogUObjectHash: Compacting FUObjectHashTables data took   2.13ms
+[2021.12.13-12.34.20:757][730]LogSlate: Window 'Color Picker' being destroyed
+[2021.12.13-12.34.21:643][812]BlueprintLog: New page: Compile BP_Sky_Sphere
+[2021.12.13-12.34.21:712][812]LogUObjectHash: Compacting FUObjectHashTables data took   2.79ms
+[2021.12.13-12.34.26:887][254]LogRenderer: Reallocating scene render targets to support 1916x1016 Format 10 NumSamples 1 (Frame:565).
+[2021.12.13-12.34.41:219][600]LogSlate: Window 'Color Picker' being destroyed
+[2021.12.13-12.34.45:952][ 34]LogSlate: Window 'Color Picker' being destroyed
+[2021.12.13-12.34.47:474][175]BlueprintLog: New page: Compile BP_Sky_Sphere
+[2021.12.13-12.34.47:550][175]LogUObjectHash: Compacting FUObjectHashTables data took   2.76ms
+[2021.12.13-12.35.00:338][576]Cmd: OBJ SAVEPACKAGE PACKAGE="/Engine/EngineSky/C_Sky_Horizon_Color" FILE="../../../Engine/Content/EngineSky/C_Sky_Horizon_Color.uasset" SILENT=true
+[2021.12.13-12.35.00:340][576]LogSavePackage: Moving '../../../../GameJam_RunnerChad/GameJam_RunnerChad/GameJam_Runner/Saved/C_Sky_Horizon_Color77B1C011452F7A94F3F8E391BB9B1E8F.tmp' to '../../../Engine/Content/EngineSky/C_Sky_Horizon_Color.uasset'
+[2021.12.13-12.35.00:351][576]AssetCheck: New page: Asset Save: C_Sky_Horizon_Color
+[2021.12.13-12.35.00:351][576]LogContentValidation: Display: Validating CurveLinearColor /Engine/EngineSky/C_Sky_Horizon_Color.C_Sky_Horizon_Color
+[2021.12.13-12.35.03:941][918]BlueprintLog: New page: Compile BP_Sky_Sphere
+[2021.12.13-12.35.03:998][918]LogUObjectHash: Compacting FUObjectHashTables data took   2.70ms
+[2021.12.13-12.35.12:181][738]LogSlate: Window 'Viewport' being destroyed
+[2021.12.13-12.35.12:183][738]LogSlate: Window 'Viewport' being destroyed
+[2021.12.13-12.35.12:186][738]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2021.12.13-12.35.12:186][738]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.13-12.35.17:721][324]Cmd: DELETE
+[2021.12.13-12.35.17:721][324]Cmd: ACTOR DELETE
+[2021.12.13-12.35.17:723][324]LogEditorActor: Deleted Actor: BP_Sky_Sphere_C
+[2021.12.13-12.35.17:763][324]LogUObjectHash: Compacting FUObjectHashTables data took   2.66ms
+[2021.12.13-12.35.17:767][324]LogEditorActor: Deleted 1 Actors (0.045 secs)
+[2021.12.13-12.35.58:633][678]LogSlate: Window 'Color Picker' being destroyed
+[2021.12.13-12.36.03:666][179]LogSlate: Window 'Color Picker' being destroyed
+[2021.12.13-12.36.08:531][617]LogSlate: Window 'Color Picker' being destroyed
+[2021.12.13-12.36.36:679][480]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2021.12.13-12.36.41:481][976]Cmd: DELETE
+[2021.12.13-12.36.41:481][976]Cmd: ACTOR DELETE
+[2021.12.13-12.36.41:488][976]LogEditorActor: Deleted Actor: BP_Sky_Sphere_C
+[2021.12.13-12.36.41:534][976]LogUObjectHash: Compacting FUObjectHashTables data took   3.20ms
+[2021.12.13-12.36.41:542][976]LogEditorActor: Deleted 1 Actors (0.061 secs)
+[2021.12.13-12.37.31:644][208]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2021.12.13-12.37.32:138][261]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2021.12.13-12.38.07:113][881]LogSlate: Window 'Color Picker' being destroyed
+[2021.12.13-12.38.28:468][160]LogSlate: Window 'MasterShadder_Material' being destroyed
+[2021.12.13-12.38.28:485][160]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2021.12.13-12.38.28:485][160]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.13-12.39.15:583][137]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2021.12.13-12.39.15:600][137]LogContentBrowser: Creating deferred item: NewFolder
+[2021.12.13-12.39.17:665][385]LogContentBrowser: Attempting asset rename: NewFolder -> FX
+[2021.12.13-12.39.17:665][385]LogContentBrowser: End creating deferred item NewFolder
+[2021.12.13-12.39.20:487][701]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2021.12.13-12.39.20:502][701]LogContentBrowser: Creating deferred item: NewFolder
+[2021.12.13-12.39.23:098][ 13]LogContentBrowser: Attempting asset rename: NewFolder -> Textures
+[2021.12.13-12.39.23:099][ 13]LogContentBrowser: End creating deferred item NewFolder
+[2021.12.13-12.39.24:805][197]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2021.12.13-12.39.24:818][197]LogContentBrowser: Creating deferred item: NewFolder
+[2021.12.13-12.39.27:804][556]LogContentBrowser: Attempting asset rename: NewFolder -> Materials
+[2021.12.13-12.39.27:805][556]LogContentBrowser: End creating deferred item NewFolder
+[2021.12.13-12.39.29:380][741]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2021.12.13-12.39.29:402][741]LogContentBrowser: Creating deferred item: NewFolder
+[2021.12.13-12.39.32:539][118]LogContentBrowser: Attempting asset rename: NewFolder -> Mesh
+[2021.12.13-12.39.32:540][118]LogContentBrowser: End creating deferred item NewFolder
+[2021.12.13-12.39.35:112][411]LogUObjectHash: Compacting FUObjectHashTables data took   1.65ms
+[2021.12.13-12.39.37:393][411]LogSlate: Window 'Save Content' being destroyed
+[2021.12.13-12.39.37:434][411]Cmd: OBJ SAVEPACKAGE PACKAGE="/Engine/EngineSky/BP_Sky_Sphere" FILE="../../../Engine/Content/EngineSky/BP_Sky_Sphere.uasset" SILENT=true
+[2021.12.13-12.39.37:487][411]LogSavePackage: Moving '../../../../GameJam_RunnerChad/GameJam_RunnerChad/GameJam_Runner/Saved/BP_Sky_Sphere2F303720488E75F0EFD7C7BCC935BBD3.tmp' to '../../../Engine/Content/EngineSky/BP_Sky_Sphere.uasset'
+[2021.12.13-12.39.37:501][411]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2021.12.13-12.39.37:506][411]LogSavePackage: Moving '../../../../GameJam_RunnerChad/GameJam_RunnerChad/GameJam_Runner/Saved/LVL_Light6DA2CC004696BAE69E83BF8ADCF8665A.tmp' to '../../../../GameJam_RunnerChad/GameJam_RunnerChad/GameJam_Runner/Content/LEVEL/MAP/LVL_Light.umap'
+[2021.12.13-12.39.37:506][411]LogFileHelpers: Saving map 'LVL_Light' took 0.019
+[2021.12.13-12.39.37:515][411]AssetCheck: New page: Asset Save: multiple assets
+[2021.12.13-12.39.37:515][411]LogContentValidation: Display: Validating Blueprint /Engine/EngineSky/BP_Sky_Sphere.BP_Sky_Sphere
+[2021.12.13-12.39.37:515][411]LogContentValidation: Display: Validating World /Game/LEVEL/MAP/LVL_Light.LVL_Light
+[2021.12.13-12.39.59:675][222]LogContentBrowser: Deferred new asset file creation: NewMaterial
+[2021.12.13-12.39.59:684][222]LogContentBrowser: Creating deferred item: NewMaterial
+[2021.12.13-12.40.03:713][706]LogContentBrowser: Attempting asset rename: NewMaterial -> MT_Fade
+[2021.12.13-12.40.03:713][706]LogContentBrowser: End creating deferred item NewMaterial
+[2021.12.13-12.40.16:620][591]LogActorFactory: Actor Factory created Sphere
+[2021.12.13-12.40.17:301][671]LogActorFactory: Actor Factory created Sphere
+[2021.12.13-12.40.42:240][ 61]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/ENV/FX/Materials/MT_Fade.MT_Fade
+[2021.12.13-12.40.42:241][ 61]LogMaterial: Display: Missing cached shader map for material MT_Fade, compiling. 
+[2021.12.13-12.40.42:349][ 61]LogMaterial: Display: Missing cached shader map for material MT_Fade, compiling. 
+[2021.12.13-12.40.42:355][ 61]LogMaterial: Display: Missing cached shader map for material MT_Fade, compiling. 
+[2021.12.13-12.40.42:368][ 61]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 9
+[2021.12.13-12.40.42:368][ 61]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 8
+[2021.12.13-12.40.42:905][ 90]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 7
+[2021.12.13-12.40.42:973][ 96]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 6
+[2021.12.13-12.40.43:241][118]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 5
+[2021.12.13-12.40.43:449][134]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 4
+[2021.12.13-12.40.43:745][157]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 3
+[2021.12.13-12.40.43:759][158]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 2
+[2021.12.13-12.40.44:191][191]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 1
+[2021.12.13-12.40.44:479][218]MaterialEditorStats: Base pass shader: 117 instructions
+[2021.12.13-12.40.44:479][218]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 191 instructions
+[2021.12.13-12.40.44:479][218]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2021.12.13-12.40.44:479][218]MaterialEditorStats: Texture samplers: 2/16
+[2021.12.13-12.40.44:901][259]LogMaterial: Display: Missing cached shader map for material MT_Fade, compiling. 
+[2021.12.13-12.40.44:908][259]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 9
+[2021.12.13-12.40.44:908][259]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 8
+[2021.12.13-12.40.45:298][295]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 7
+[2021.12.13-12.40.45:360][302]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 6
+[2021.12.13-12.40.45:568][323]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 5
+[2021.12.13-12.40.45:763][343]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 4
+[2021.12.13-12.40.45:776][344]LogMaterial: Display: Missing cached shader map for material MT_Fade, compiling. 
+[2021.12.13-12.40.45:788][344]LogMaterial: Display: Missing cached shader map for material MT_Fade, compiling. 
+[2021.12.13-12.40.45:799][344]LogMaterial: Display: Missing cached shader map for material MT_Fade, compiling. 
+[2021.12.13-12.40.46:042][362]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 22
+[2021.12.13-12.40.46:108][368]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 21
+[2021.12.13-12.40.46:502][403]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 20
+[2021.12.13-12.40.46:792][425]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 19
+[2021.12.13-12.40.46:828][427]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 18
+[2021.12.13-12.40.47:174][446]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 17
+[2021.12.13-12.40.47:211][448]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 16
+[2021.12.13-12.40.47:360][456]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 15
+[2021.12.13-12.40.47:576][468]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 14
+[2021.12.13-12.40.47:799][480]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 13
+[2021.12.13-12.40.47:950][489]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 12
+[2021.12.13-12.40.48:049][495]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 11
+[2021.12.13-12.40.48:383][514]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 10
+[2021.12.13-12.40.48:467][519]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 9
+[2021.12.13-12.40.48:520][522]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 8
+[2021.12.13-12.40.49:146][556]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 7
+[2021.12.13-12.40.49:219][560]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 6
+[2021.12.13-12.40.49:612][579]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 5
+[2021.12.13-12.40.49:629][580]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 4
+[2021.12.13-12.40.49:787][589]LogMaterial: Display: Missing cached shader map for material MT_Fade, compiling. 
+[2021.12.13-12.40.49:974][603]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 22
+[2021.12.13-12.40.50:037][610]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 21
+[2021.12.13-12.40.50:360][642]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 20
+[2021.12.13-12.40.50:595][667]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 19
+[2021.12.13-12.40.50:604][668]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 18
+[2021.12.13-12.40.50:830][691]LogMaterial: Display: Missing cached shader map for material MT_Fade, compiling. 
+[2021.12.13-12.40.50:841][691]LogMaterial: Display: Missing cached shader map for material MT_Fade, compiling. 
+[2021.12.13-12.40.50:846][691]LogMaterial: Display: Missing cached shader map for material MT_Fade, compiling. 
+[2021.12.13-12.40.50:968][698]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 8
+[2021.12.13-12.40.50:968][698]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 7
+[2021.12.13-12.40.51:273][724]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 6
+[2021.12.13-12.40.51:647][749]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 5
+[2021.12.13-12.40.51:663][750]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 4
+[2021.12.13-12.40.51:785][757]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 3
+[2021.12.13-12.40.51:932][765]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 2
+[2021.12.13-12.40.51:932][765]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 1
+[2021.12.13-12.40.52:989][788]MaterialEditorStats: Base pass shader without light map: 48 instructions
+[2021.12.13-12.40.52:989][788]MaterialEditorStats: Base pass vertex shader: 193 instructions
+[2021.12.13-12.40.52:989][788]MaterialEditorStats: Texture samplers: 4/16
+[2021.12.13-12.40.55:001][794]LogMaterialEditor: Saving and Compiling material MT_Fade
+[2021.12.13-12.40.55:507][794]LogMaterial: Display: Missing cached shader map for material MT_Fade, compiling. 
+[2021.12.13-12.40.55:539][794]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 8
+[2021.12.13-12.40.55:539][794]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 7
+[2021.12.13-12.40.55:545][794]LogMaterial: Display: Missing cached shader map for material MT_Fade, compiling. 
+[2021.12.13-12.40.55:610][794]LogUObjectHash: Compacting FUObjectHashTables data took   2.79ms
+[2021.12.13-12.40.55:616][794]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.12.13-12.40.56:177][794]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 16
+[2021.12.13-12.40.56:177][794]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 15
+[2021.12.13-12.40.56:177][794]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 14
+[2021.12.13-12.40.56:177][794]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 13
+[2021.12.13-12.40.56:735][794]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 12
+[2021.12.13-12.40.56:735][794]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 11
+[2021.12.13-12.40.56:735][794]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 10
+[2021.12.13-12.40.56:735][794]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 9
+[2021.12.13-12.40.56:735][794]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 8
+[2021.12.13-12.40.56:800][794]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 3
+[2021.12.13-12.40.56:802][794]TextureStreamingBuild: Display: Compiling optional shaders took 1.191 seconds.
+[2021.12.13-12.40.56:843][794]LogUObjectHash: Compacting FUObjectHashTables data took   1.83ms
+[2021.12.13-12.40.57:452][794]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 1
+[2021.12.13-12.40.57:894][794]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ENV/FX/Materials/MT_Fade" FILE="../../../../GameJam_RunnerChad/GameJam_RunnerChad/GameJam_Runner/Content/ENV/FX/Materials/MT_Fade.uasset" SILENT=true
+[2021.12.13-12.40.57:898][794]LogSavePackage: Moving '../../../../GameJam_RunnerChad/GameJam_RunnerChad/GameJam_Runner/Saved/MT_Fade6F1EA09F44C0AE54A1E50F9431D11411.tmp' to '../../../../GameJam_RunnerChad/GameJam_RunnerChad/GameJam_Runner/Content/ENV/FX/Materials/MT_Fade.uasset'
+[2021.12.13-12.40.57:939][794]AssetCheck: New page: Asset Save: MT_Fade
+[2021.12.13-12.40.57:939][794]LogContentValidation: Display: Validating Material /Game/ENV/FX/Materials/MT_Fade.MT_Fade
+[2021.12.13-12.41.07:823][726]LogMaterial: Display: Missing cached shader map for material MT_Fade, compiling. 
+[2021.12.13-12.41.07:827][726]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionDepthFade_0, compiling. 
+[2021.12.13-12.41.07:851][727]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 12
+[2021.12.13-12.41.07:851][727]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 11
+[2021.12.13-12.41.08:116][751]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 10
+[2021.12.13-12.41.08:499][785]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 9
+[2021.12.13-12.41.08:552][790]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 8
+[2021.12.13-12.41.08:694][802]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 7
+[2021.12.13-12.41.08:874][818]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 6
+[2021.12.13-12.41.08:884][819]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 5
+[2021.12.13-12.41.09:313][851]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 4
+[2021.12.13-12.41.09:366][854]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 3
+[2021.12.13-12.41.09:373][854]MaterialEditorStats: Base pass shader without light map: 48 instructions
+[2021.12.13-12.41.09:373][854]MaterialEditorStats: Base pass vertex shader: 193 instructions
+[2021.12.13-12.41.09:373][854]MaterialEditorStats: Texture samplers: 4/16
+[2021.12.13-12.41.09:619][868]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 2
+[2021.12.13-12.41.09:719][874]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 1
+[2021.12.13-12.42.42:310][ 79]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{afa3c18a-d099-4f51-a095-cc630e921ea5}.
+[2021.12.13-12.42.42:310][ 79]LogAudioMixer: Resetting audio stream to device id 
+[2021.12.13-12.42.42:559][ 79]LogAudioMixer: Display: 0: FrontLeft
+[2021.12.13-12.42.42:559][ 79]LogAudioMixer: Display: 1: FrontRight
+[2021.12.13-12.42.53:460][351]LogMaterial: Display: Missing cached shader map for material MT_Fade, compiling. 
+[2021.12.13-12.42.53:469][351]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 8
+[2021.12.13-12.42.53:469][351]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 7
+[2021.12.13-12.42.53:470][351]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionDepthFade_0, compiling. 
+[2021.12.13-12.42.53:904][388]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 10
+[2021.12.13-12.42.54:276][426]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 9
+[2021.12.13-12.42.54:294][428]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 8
+[2021.12.13-12.42.54:422][442]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 7
+[2021.12.13-12.42.54:533][454]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 6
+[2021.12.13-12.42.54:578][459]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 5
+[2021.12.13-12.42.54:973][494]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 4
+[2021.12.13-12.42.55:046][501]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 3
+[2021.12.13-12.42.55:060][502]MaterialEditorStats: Base pass shader without light map: 65 instructions
+[2021.12.13-12.42.55:060][502]MaterialEditorStats: Base pass vertex shader: 193 instructions
+[2021.12.13-12.42.55:060][502]MaterialEditorStats: Texture samplers: 4/16
+[2021.12.13-12.42.55:060][502]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2021.12.13-12.42.55:330][525]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 2
+[2021.12.13-12.42.55:458][537]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 1
+[2021.12.13-12.43.14:013][319]LogMaterial: Display: Missing cached shader map for material MT_Fade, compiling. 
+[2021.12.13-12.43.14:039][320]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 8
+[2021.12.13-12.43.14:039][320]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 7
+[2021.12.13-12.43.14:296][342]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 6
+[2021.12.13-12.43.14:692][378]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 5
+[2021.12.13-12.43.14:734][382]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 4
+[2021.12.13-12.43.14:859][394]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 3
+[2021.12.13-12.43.14:997][407]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 2
+[2021.12.13-12.43.15:019][409]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 1
+[2021.12.13-12.43.15:422][446]MaterialEditorStats: Base pass shader without light map: 65 instructions
+[2021.12.13-12.43.15:422][446]MaterialEditorStats: Base pass vertex shader: 193 instructions
+[2021.12.13-12.43.15:422][446]MaterialEditorStats: Texture samplers: 4/16
+[2021.12.13-12.43.15:422][446]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2021.12.13-12.43.16:389][549]LogMaterial: Display: Missing cached shader map for material MT_Fade, compiling. 
+[2021.12.13-12.43.16:430][550]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 8
+[2021.12.13-12.43.16:430][550]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 7
+[2021.12.13-12.43.16:672][571]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 6
+[2021.12.13-12.43.17:022][603]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 5
+[2021.12.13-12.43.17:041][605]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 4
+[2021.12.13-12.43.17:166][618]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 3
+[2021.12.13-12.43.17:263][628]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 2
+[2021.12.13-12.43.17:301][632]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 1
+[2021.12.13-12.43.20:438][998]MaterialEditorStats: Base pass shader without light map: 65 instructions
+[2021.12.13-12.43.20:438][998]MaterialEditorStats: Base pass vertex shader: 193 instructions
+[2021.12.13-12.43.20:438][998]MaterialEditorStats: Texture samplers: 4/16
+[2021.12.13-12.43.20:438][998]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2021.12.13-12.43.59:522][603]LogWindows: LaunchURL http://docs.unrealengine.com/latest/FRA/Engine/Rendering/Materials/index.html?utm_source=editor&utm_medium=docs&utm_campaign=help_menu_asset
+[2021.12.13-12.44.08:178][385]LogMaterial: Display: Missing cached shader map for material MT_Fade, compiling. 
+[2021.12.13-12.44.08:212][386]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 8
+[2021.12.13-12.44.08:212][386]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 7
+[2021.12.13-12.44.08:560][414]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 6
+[2021.12.13-12.44.09:006][453]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 5
+[2021.12.13-12.44.09:049][457]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 4
+[2021.12.13-12.44.09:184][469]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 3
+[2021.12.13-12.44.09:327][482]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 2
+[2021.12.13-12.44.09:338][483]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 1
+[2021.12.13-12.44.09:786][522]MaterialEditorStats: Base pass shader without light map: 65 instructions
+[2021.12.13-12.44.09:786][522]MaterialEditorStats: Base pass vertex shader: 193 instructions
+[2021.12.13-12.44.09:786][522]MaterialEditorStats: Texture samplers: 4/16
+[2021.12.13-12.44.09:786][522]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2021.12.13-12.44.10:765][629]LogMaterial: Display: Missing cached shader map for material MT_Fade, compiling. 
+[2021.12.13-12.44.10:773][629]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 8
+[2021.12.13-12.44.10:774][629]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 7
+[2021.12.13-12.44.10:775][629]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionDepthFade_0, compiling. 
+[2021.12.13-12.44.11:078][654]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 10
+[2021.12.13-12.44.11:517][693]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 9
+[2021.12.13-12.44.11:539][695]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 8
+[2021.12.13-12.44.11:708][710]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 7
+[2021.12.13-12.44.11:853][723]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 6
+[2021.12.13-12.44.11:887][726]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 5
+[2021.12.13-12.44.12:327][758]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 4
+[2021.12.13-12.44.12:362][760]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 3
+[2021.12.13-12.44.12:370][760]MaterialEditorStats: Base pass shader without light map: 65 instructions
+[2021.12.13-12.44.12:370][760]MaterialEditorStats: Base pass vertex shader: 193 instructions
+[2021.12.13-12.44.12:370][760]MaterialEditorStats: Texture samplers: 4/16
+[2021.12.13-12.44.12:370][760]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2021.12.13-12.44.12:626][775]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 2
+[2021.12.13-12.44.12:713][780]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 1
+[2021.12.13-12.44.14:924][848]LogMaterial: Display: Missing cached shader map for material MT_Fade, compiling. 
+[2021.12.13-12.44.14:936][848]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 8
+[2021.12.13-12.44.14:936][848]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 7
+[2021.12.13-12.44.14:936][848]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionDepthFade_0, compiling. 
+[2021.12.13-12.44.15:223][873]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 10
+[2021.12.13-12.44.15:619][904]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 9
+[2021.12.13-12.44.15:642][907]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 8
+[2021.12.13-12.44.15:771][920]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 7
+[2021.12.13-12.44.15:892][932]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 6
+[2021.12.13-12.44.15:920][935]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 5
+[2021.12.13-12.44.16:245][967]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 4
+[2021.12.13-12.44.16:276][970]LogMaterial: Display: Missing cached shader map for material MT_Fade, compiling. 
+[2021.12.13-12.44.16:284][970]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionDepthFade_0, compiling. 
+[2021.12.13-12.44.16:289][970]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 12
+[2021.12.13-12.44.16:570][992]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 11
+[2021.12.13-12.44.16:851][ 16]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 10
+[2021.12.13-12.44.17:011][ 30]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 9
+[2021.12.13-12.44.17:177][ 44]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 8
+[2021.12.13-12.44.17:243][ 50]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 7
+[2021.12.13-12.44.17:411][ 64]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 6
+[2021.12.13-12.44.17:463][ 69]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 5
+[2021.12.13-12.44.17:820][ 99]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 4
+[2021.12.13-12.44.17:904][106]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 3
+[2021.12.13-12.44.17:905][106]MaterialEditorStats: Base pass shader without light map: 52 instructions
+[2021.12.13-12.44.17:905][106]MaterialEditorStats: Base pass vertex shader: 193 instructions
+[2021.12.13-12.44.17:905][106]MaterialEditorStats: Texture samplers: 4/16
+[2021.12.13-12.44.17:905][106]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2021.12.13-12.44.18:156][125]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 2
+[2021.12.13-12.44.18:297][137]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 1
+[2021.12.13-12.44.20:843][403]LogMaterial: Display: Missing cached shader map for material MT_Fade, compiling. 
+[2021.12.13-12.44.20:849][403]LogMaterial: Display: Missing cached shader map for material MT_Fade, compiling. 
+[2021.12.13-12.44.20:863][404]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 8
+[2021.12.13-12.44.20:863][404]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 7
+[2021.12.13-12.44.21:153][430]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 6
+[2021.12.13-12.44.21:568][462]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 5
+[2021.12.13-12.44.21:592][465]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 4
+[2021.12.13-12.44.21:733][478]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 3
+[2021.12.13-12.44.21:868][490]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 2
+[2021.12.13-12.44.21:901][493]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 1
+[2021.12.13-12.44.22:351][528]MaterialEditorStats: Base pass shader without light map: 65 instructions
+[2021.12.13-12.44.22:351][528]MaterialEditorStats: Base pass vertex shader: 193 instructions
+[2021.12.13-12.44.22:351][528]MaterialEditorStats: Texture samplers: 4/16
+[2021.12.13-12.44.22:351][528]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2021.12.13-12.44.26:934][ 26]LogMaterial: Display: Missing cached shader map for material MT_Fade, compiling. 
+[2021.12.13-12.44.26:938][ 26]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 8
+[2021.12.13-12.44.26:938][ 26]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 7
+[2021.12.13-12.44.27:235][ 50]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 6
+[2021.12.13-12.44.27:642][ 84]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 5
+[2021.12.13-12.44.27:686][ 88]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 4
+[2021.12.13-12.44.27:819][100]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 3
+[2021.12.13-12.44.27:945][112]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 2
+[2021.12.13-12.44.27:973][115]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 1
+[2021.12.13-12.44.28:384][154]MaterialEditorStats: Base pass shader without light map: 65 instructions
+[2021.12.13-12.44.28:384][154]MaterialEditorStats: Base pass vertex shader: 193 instructions
+[2021.12.13-12.44.28:384][154]MaterialEditorStats: Texture samplers: 4/16
+[2021.12.13-12.44.28:384][154]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2021.12.13-12.44.36:080][551]LogMaterial: Display: Missing cached shader map for material MT_Fade, compiling. 
+[2021.12.13-12.44.36:086][551]LogMaterial: Display: Missing cached shader map for material MT_Fade, compiling. 
+[2021.12.13-12.44.36:099][552]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 8
+[2021.12.13-12.44.36:099][552]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 7
+[2021.12.13-12.44.36:378][577]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 6
+[2021.12.13-12.44.36:760][610]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 5
+[2021.12.13-12.44.36:786][611]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 4
+[2021.12.13-12.44.36:928][624]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 3
+[2021.12.13-12.44.37:050][635]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 2
+[2021.12.13-12.44.37:091][639]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 1
+[2021.12.13-12.44.38:175][750]LogMaterial: Display: Missing cached shader map for material MT_Fade, compiling. 
+[2021.12.13-12.44.38:187][750]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionDepthFade_0, compiling. 
+[2021.12.13-12.44.38:189][750]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 8
+[2021.12.13-12.44.38:189][750]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 7
+[2021.12.13-12.44.38:500][776]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 10
+[2021.12.13-12.44.38:910][806]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 9
+[2021.12.13-12.44.38:927][807]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 8
+[2021.12.13-12.44.39:050][814]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 7
+[2021.12.13-12.44.39:182][821]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 6
+[2021.12.13-12.44.39:220][823]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 5
+[2021.12.13-12.44.39:578][842]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 4
+[2021.12.13-12.44.39:653][846]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 3
+[2021.12.13-12.44.39:659][846]MaterialEditorStats: Base pass shader without light map: 65 instructions
+[2021.12.13-12.44.39:659][846]MaterialEditorStats: Base pass vertex shader: 193 instructions
+[2021.12.13-12.44.39:659][846]MaterialEditorStats: Texture samplers: 4/16
+[2021.12.13-12.44.39:659][846]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2021.12.13-12.44.39:911][859]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 2
+[2021.12.13-12.44.40:036][866]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 1
+[2021.12.13-12.44.43:674][892]LogMaterialEditor: Saving and Compiling material MT_Fade
+[2021.12.13-12.44.44:144][892]LogMaterial: Display: Missing cached shader map for material MT_Fade, compiling. 
+[2021.12.13-12.44.44:166][892]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 8
+[2021.12.13-12.44.44:166][892]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 7
+[2021.12.13-12.44.44:170][892]LogMaterial: Display: Missing cached shader map for material MT_Fade, compiling. 
+[2021.12.13-12.44.44:190][892]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2021.12.13-12.44.44:196][892]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.12.13-12.44.44:760][892]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 16
+[2021.12.13-12.44.44:760][892]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 15
+[2021.12.13-12.44.44:760][892]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 14
+[2021.12.13-12.44.44:760][892]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 13
+[2021.12.13-12.44.45:319][892]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 12
+[2021.12.13-12.44.45:319][892]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 11
+[2021.12.13-12.44.45:319][892]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 10
+[2021.12.13-12.44.45:319][892]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 9
+[2021.12.13-12.44.45:319][892]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 8
+[2021.12.13-12.44.45:373][892]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 3
+[2021.12.13-12.44.45:375][892]TextureStreamingBuild: Display: Compiling optional shaders took 1.183 seconds.
+[2021.12.13-12.44.45:389][892]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2021.12.13-12.44.45:996][892]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 1
+[2021.12.13-12.44.46:441][892]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ENV/FX/Materials/MT_Fade" FILE="../../../../GameJam_RunnerChad/GameJam_RunnerChad/GameJam_Runner/Content/ENV/FX/Materials/MT_Fade.uasset" SILENT=true
+[2021.12.13-12.44.46:451][892]LogSavePackage: Moving '../../../../GameJam_RunnerChad/GameJam_RunnerChad/GameJam_Runner/Saved/MT_Fade61A789494773DF18E2D24384D649FAC2.tmp' to '../../../../GameJam_RunnerChad/GameJam_RunnerChad/GameJam_Runner/Content/ENV/FX/Materials/MT_Fade.uasset'
+[2021.12.13-12.44.46:492][892]AssetCheck: New page: Asset Save: MT_Fade
+[2021.12.13-12.44.46:493][892]LogContentValidation: Display: Validating Material /Game/ENV/FX/Materials/MT_Fade.MT_Fade
+[2021.12.13-12.45.01:228][452]LogActorFactory: Actor Factory created Cube
+[2021.12.13-12.45.01:960][539]LogActorFactory: Actor Factory created Cube
+[2021.12.13-12.45.05:421][948]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Sphere)
+[2021.12.13-12.45.18:569][516]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2021.12.13-12.45.22:292][957]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/LEVEL/MAP/LVL_Light.LVL_Light:PersistentLevel.Cube_5.StaticMeshComponent0)
+[2021.12.13-12.45.22:332][962]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/LEVEL/MAP/LVL_Light.LVL_Light:PersistentLevel.Cube_5.StaticMeshComponent0)
+[2021.12.13-12.45.22:732][ 10]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/LEVEL/MAP/LVL_Light.LVL_Light:PersistentLevel.Cube_5.StaticMeshComponent0)
+[2021.12.13-12.45.22:749][ 12]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/LEVEL/MAP/LVL_Light.LVL_Light:PersistentLevel.Cube_5.StaticMeshComponent0)
+[2021.12.13-12.45.37:574][768]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Sphere)
+[2021.12.13-12.45.38:479][873]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2021.12.13-12.45.41:976][285]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2021.12.13-12.45.47:584][757]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Sphere)
+[2021.12.13-12.45.48:977][920]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2021.12.13-12.45.49:707][  5]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube5)
+[2021.12.13-12.45.56:892][391]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Sphere)
+[2021.12.13-12.45.56:909][391]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2021.12.13-12.46.05:569][254]LogMaterial: Display: Missing cached shader map for material MT_Fade, compiling. 
+[2021.12.13-12.46.05:575][254]LogMaterial: Display: Missing cached shader map for material MT_Fade, compiling. 
+[2021.12.13-12.46.05:598][256]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 8
+[2021.12.13-12.46.05:598][256]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 7
+[2021.12.13-12.46.05:968][290]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 6
+[2021.12.13-12.46.06:374][326]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 5
+[2021.12.13-12.46.06:391][327]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 4
+[2021.12.13-12.46.06:541][339]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 3
+[2021.12.13-12.46.06:670][348]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 2
+[2021.12.13-12.46.06:703][351]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 1
+[2021.12.13-12.46.06:897][369]LogMaterialEditor: Saving and Compiling material MT_Fade
+[2021.12.13-12.46.07:372][369]LogMaterial: Display: Missing cached shader map for material MT_Fade, compiling. 
+[2021.12.13-12.46.07:406][369]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 8
+[2021.12.13-12.46.07:406][369]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 7
+[2021.12.13-12.46.07:410][369]LogMaterial: Display: Missing cached shader map for material MT_Fade, compiling. 
+[2021.12.13-12.46.07:428][369]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2021.12.13-12.46.07:434][369]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.12.13-12.46.07:997][369]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 16
+[2021.12.13-12.46.07:997][369]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 15
+[2021.12.13-12.46.07:997][369]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 14
+[2021.12.13-12.46.07:997][369]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 13
+[2021.12.13-12.46.08:556][369]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 12
+[2021.12.13-12.46.08:556][369]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 11
+[2021.12.13-12.46.08:556][369]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 10
+[2021.12.13-12.46.08:556][369]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 9
+[2021.12.13-12.46.08:556][369]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 8
+[2021.12.13-12.46.08:610][369]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 3
+[2021.12.13-12.46.08:621][369]TextureStreamingBuild: Display: Compiling optional shaders took 1.191 seconds.
+[2021.12.13-12.46.08:634][369]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2021.12.13-12.46.09:249][369]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 1
+[2021.12.13-12.46.09:614][369]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ENV/FX/Materials/MT_Fade" FILE="../../../../GameJam_RunnerChad/GameJam_RunnerChad/GameJam_Runner/Content/ENV/FX/Materials/MT_Fade.uasset" SILENT=true
+[2021.12.13-12.46.09:619][369]LogSavePackage: Moving '../../../../GameJam_RunnerChad/GameJam_RunnerChad/GameJam_Runner/Saved/MT_Fade6E8DEDC849722E9B8ED8AB99F6EA24FD.tmp' to '../../../../GameJam_RunnerChad/GameJam_RunnerChad/GameJam_Runner/Content/ENV/FX/Materials/MT_Fade.uasset'
+[2021.12.13-12.46.09:669][369]AssetCheck: New page: Asset Save: MT_Fade
+[2021.12.13-12.46.09:669][369]LogContentValidation: Display: Validating Material /Game/ENV/FX/Materials/MT_Fade.MT_Fade
+[2021.12.13-12.46.09:670][369]MaterialEditorStats: Base pass shader without light map: 65 instructions
+[2021.12.13-12.46.09:670][369]MaterialEditorStats: Base pass vertex shader: 193 instructions
+[2021.12.13-12.46.09:670][369]MaterialEditorStats: Texture samplers: 4/16
+[2021.12.13-12.46.09:670][369]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2021.12.13-12.46.22:415][598]LogMaterial: Display: Missing cached shader map for material MT_Fade, compiling. 
+[2021.12.13-12.46.22:420][598]LogMaterial: Display: Missing cached shader map for material MT_Fade, compiling. 
+[2021.12.13-12.46.22:434][599]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 8
+[2021.12.13-12.46.22:434][599]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 7
+[2021.12.13-12.46.22:704][623]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 6
+[2021.12.13-12.46.23:091][656]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 5
+[2021.12.13-12.46.23:125][656]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 4
+[2021.12.13-12.46.23:252][668]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 3
+[2021.12.13-12.46.23:381][677]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 2
+[2021.12.13-12.46.23:410][680]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 1
+[2021.12.13-12.46.23:473][687]LogMaterialEditor: Saving and Compiling material MT_Fade
+[2021.12.13-12.46.23:948][687]LogMaterial: Display: Missing cached shader map for material MT_Fade, compiling. 
+[2021.12.13-12.46.23:963][687]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 8
+[2021.12.13-12.46.23:963][687]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 7
+[2021.12.13-12.46.23:976][687]LogMaterial: Display: Missing cached shader map for material MT_Fade, compiling. 
+[2021.12.13-12.46.23:994][687]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2021.12.13-12.46.24:000][687]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.12.13-12.46.24:563][687]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 16
+[2021.12.13-12.46.24:563][687]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 15
+[2021.12.13-12.46.24:563][687]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 14
+[2021.12.13-12.46.24:563][687]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 13
+[2021.12.13-12.46.25:122][687]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 12
+[2021.12.13-12.46.25:122][687]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 11
+[2021.12.13-12.46.25:122][687]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 10
+[2021.12.13-12.46.25:122][687]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 9
+[2021.12.13-12.46.25:122][687]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 8
+[2021.12.13-12.46.25:155][687]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 3
+[2021.12.13-12.46.25:170][687]TextureStreamingBuild: Display: Compiling optional shaders took 1.173 seconds.
+[2021.12.13-12.46.25:182][687]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2021.12.13-12.46.25:785][687]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 1
+[2021.12.13-12.46.26:186][687]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ENV/FX/Materials/MT_Fade" FILE="../../../../GameJam_RunnerChad/GameJam_RunnerChad/GameJam_Runner/Content/ENV/FX/Materials/MT_Fade.uasset" SILENT=true
+[2021.12.13-12.46.26:191][687]LogSavePackage: Moving '../../../../GameJam_RunnerChad/GameJam_RunnerChad/GameJam_Runner/Saved/MT_Fade3374E4BF4FC7EF6BFA09DBA08D7FB0E6.tmp' to '../../../../GameJam_RunnerChad/GameJam_RunnerChad/GameJam_Runner/Content/ENV/FX/Materials/MT_Fade.uasset'
+[2021.12.13-12.46.26:228][687]AssetCheck: New page: Asset Save: MT_Fade
+[2021.12.13-12.46.26:228][687]LogContentValidation: Display: Validating Material /Game/ENV/FX/Materials/MT_Fade.MT_Fade
+[2021.12.13-12.46.26:229][687]MaterialEditorStats: Base pass shader without light map: 65 instructions
+[2021.12.13-12.46.26:229][687]MaterialEditorStats: Base pass vertex shader: 193 instructions
+[2021.12.13-12.46.26:229][687]MaterialEditorStats: Texture samplers: 4/16
+[2021.12.13-12.46.26:229][687]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2021.12.13-12.47.00:217][471]LogMaterial: Display: Missing cached shader map for material MT_Fade, compiling. 
+[2021.12.13-12.47.00:225][471]LogMaterial: Display: Missing cached shader map for material MT_Fade, compiling. 
+[2021.12.13-12.47.00:230][471]LogMaterial: Display: Missing cached shader map for material MT_Fade, compiling. 
+[2021.12.13-12.47.00:267][472]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 10
+[2021.12.13-12.47.00:267][472]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 9
+[2021.12.13-12.47.00:504][489]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 8
+[2021.12.13-12.47.00:606][498]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 7
+[2021.12.13-12.47.00:880][517]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 6
+[2021.12.13-12.47.01:193][541]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 5
+[2021.12.13-12.47.01:250][547]LogMaterialEditor: Saving and Compiling material MT_Fade
+[2021.12.13-12.47.01:731][547]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 4
+[2021.12.13-12.47.01:731][547]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 3
+[2021.12.13-12.47.01:731][547]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 2
+[2021.12.13-12.47.01:731][547]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 1
+[2021.12.13-12.47.01:744][547]LogMaterial: Display: Missing cached shader map for material MT_Fade, compiling. 
+[2021.12.13-12.47.01:778][547]LogMaterial: Display: Missing cached shader map for material MT_Fade, compiling. 
+[2021.12.13-12.47.01:797][547]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2021.12.13-12.47.01:803][547]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 20
+[2021.12.13-12.47.01:803][547]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.12.13-12.47.02:366][547]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 21
+[2021.12.13-12.47.02:366][547]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 20
+[2021.12.13-12.47.02:366][547]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 19
+[2021.12.13-12.47.02:366][547]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 18
+[2021.12.13-12.47.02:925][547]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 17
+[2021.12.13-12.47.02:925][547]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 16
+[2021.12.13-12.47.02:925][547]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 15
+[2021.12.13-12.47.02:925][547]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 14
+[2021.12.13-12.47.02:925][547]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 13
+[2021.12.13-12.47.03:287][547]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 12
+[2021.12.13-12.47.03:287][547]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 11
+[2021.12.13-12.47.03:287][547]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 10
+[2021.12.13-12.47.03:287][547]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 4
+[2021.12.13-12.47.03:290][547]TextureStreamingBuild: Display: Compiling optional shaders took 1.491 seconds.
+[2021.12.13-12.47.03:306][547]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2021.12.13-12.47.03:919][547]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 1
+[2021.12.13-12.47.04:608][547]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ENV/FX/Materials/MT_Fade" FILE="../../../../GameJam_RunnerChad/GameJam_RunnerChad/GameJam_Runner/Content/ENV/FX/Materials/MT_Fade.uasset" SILENT=true
+[2021.12.13-12.47.04:613][547]LogSavePackage: Moving '../../../../GameJam_RunnerChad/GameJam_RunnerChad/GameJam_Runner/Saved/MT_FadeF21B2CEC4119AF8C357126A7C5CC5B19.tmp' to '../../../../GameJam_RunnerChad/GameJam_RunnerChad/GameJam_Runner/Content/ENV/FX/Materials/MT_Fade.uasset'
+[2021.12.13-12.47.04:652][547]AssetCheck: New page: Asset Save: MT_Fade
+[2021.12.13-12.47.04:652][547]LogContentValidation: Display: Validating Material /Game/ENV/FX/Materials/MT_Fade.MT_Fade
+[2021.12.13-12.47.04:653][547]MaterialEditorStats: Base pass shader without light map: 65 instructions
+[2021.12.13-12.47.04:653][547]MaterialEditorStats: Base pass vertex shader: 193 instructions
+[2021.12.13-12.47.04:653][547]MaterialEditorStats: Texture samplers: 4/16
+[2021.12.13-12.47.04:653][547]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2021.12.13-12.47.14:009][978]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2021.12.13-12.47.16:134][230]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2021.12.13-12.47.56:308][749]LogMaterial: Display: Missing cached shader map for material MT_Fade, compiling. 
+[2021.12.13-12.47.56:319][749]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionDepthFade_0, compiling. 
+[2021.12.13-12.47.56:322][749]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 14
+[2021.12.13-12.47.56:322][749]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 13
+[2021.12.13-12.47.56:653][774]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 12
+[2021.12.13-12.47.56:746][782]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 11
+[2021.12.13-12.47.57:055][804]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 10
+[2021.12.13-12.47.57:337][820]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 9
+[2021.12.13-12.47.57:442][825]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 8
+[2021.12.13-12.47.57:523][829]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 7
+[2021.12.13-12.47.57:701][838]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 6
+[2021.12.13-12.47.57:701][838]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 5
+[2021.12.13-12.47.58:129][860]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 4
+[2021.12.13-12.47.58:129][860]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 3
+[2021.12.13-12.47.58:156][861]MaterialEditorStats: Base pass shader without light map: 66 instructions
+[2021.12.13-12.47.58:156][861]MaterialEditorStats: Base pass vertex shader: 193 instructions
+[2021.12.13-12.47.58:156][861]MaterialEditorStats: Texture samplers: 4/16
+[2021.12.13-12.47.58:156][861]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2021.12.13-12.47.58:452][876]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 2
+[2021.12.13-12.47.58:532][880]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 1
+[2021.12.13-12.48.35:650][726]LogMaterial: Display: Missing cached shader map for material MT_Fade, compiling. 
+[2021.12.13-12.48.35:654][726]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2021.12.13-12.48.35:690][727]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 14
+[2021.12.13-12.48.35:690][727]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 13
+[2021.12.13-12.48.35:913][741]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 12
+[2021.12.13-12.48.36:001][746]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 11
+[2021.12.13-12.48.36:286][767]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 10
+[2021.12.13-12.48.36:569][791]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 9
+[2021.12.13-12.48.36:674][801]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 8
+[2021.12.13-12.48.36:735][807]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 7
+[2021.12.13-12.48.36:911][823]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 6
+[2021.12.13-12.48.36:924][824]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 5
+[2021.12.13-12.48.37:355][858]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 4
+[2021.12.13-12.48.37:355][858]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 3
+[2021.12.13-12.48.37:370][859]MaterialEditorStats: Base pass shader without light map: 66 instructions
+[2021.12.13-12.48.37:370][859]MaterialEditorStats: Base pass vertex shader: 193 instructions
+[2021.12.13-12.48.37:370][859]MaterialEditorStats: Texture samplers: 4/16
+[2021.12.13-12.48.37:370][859]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2021.12.13-12.48.37:669][884]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 2
+[2021.12.13-12.48.37:735][890]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 1
+[2021.12.13-12.48.40:531][171]LogMaterial: Display: Missing cached shader map for material MT_Fade, compiling. 
+[2021.12.13-12.48.40:538][171]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 10
+[2021.12.13-12.48.40:538][171]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 9
+[2021.12.13-12.48.40:539][171]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2021.12.13-12.48.40:702][185]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 12
+[2021.12.13-12.48.40:796][193]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 11
+[2021.12.13-12.48.41:086][214]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 10
+[2021.12.13-12.48.41:406][239]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 9
+[2021.12.13-12.48.41:516][248]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 8
+[2021.12.13-12.48.41:582][254]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 7
+[2021.12.13-12.48.41:778][266]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 6
+[2021.12.13-12.48.41:778][266]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 5
+[2021.12.13-12.48.42:184][294]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 4
+[2021.12.13-12.48.42:184][294]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 3
+[2021.12.13-12.48.42:200][295]MaterialEditorStats: Base pass shader without light map: 65 instructions
+[2021.12.13-12.48.42:200][295]MaterialEditorStats: Base pass vertex shader: 193 instructions
+[2021.12.13-12.48.42:200][295]MaterialEditorStats: Texture samplers: 4/16
+[2021.12.13-12.48.42:200][295]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2021.12.13-12.48.42:502][318]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 2
+[2021.12.13-12.48.42:572][324]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 1
+[2021.12.13-12.48.44:494][519]LogMaterial: Display: Missing cached shader map for material MT_Fade, compiling. 
+[2021.12.13-12.48.44:503][519]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2021.12.13-12.48.44:520][520]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 14
+[2021.12.13-12.48.44:520][520]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 13
+[2021.12.13-12.48.44:676][531]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 12
+[2021.12.13-12.48.44:772][539]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 11
+[2021.12.13-12.48.45:035][559]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 10
+[2021.12.13-12.48.45:100][565]LogMaterial: Display: Missing cached shader map for material MT_Fade, compiling. 
+[2021.12.13-12.48.45:108][565]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2021.12.13-12.48.45:315][579]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 14
+[2021.12.13-12.48.45:432][589]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 13
+[2021.12.13-12.48.45:549][599]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 12
+[2021.12.13-12.48.45:570][601]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 11
+[2021.12.13-12.48.45:820][623]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 10
+[2021.12.13-12.48.45:855][626]LogMaterial: Display: Missing cached shader map for material MT_Fade, compiling. 
+[2021.12.13-12.48.45:865][626]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2021.12.13-12.48.46:191][648]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 14
+[2021.12.13-12.48.46:238][652]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 13
+[2021.12.13-12.48.46:399][663]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 12
+[2021.12.13-12.48.46:465][668]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 11
+[2021.12.13-12.48.46:741][689]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 10
+[2021.12.13-12.48.47:080][717]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 9
+[2021.12.13-12.48.47:081][717]LogMaterial: Display: Missing cached shader map for material MT_Fade, compiling. 
+[2021.12.13-12.48.47:095][717]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2021.12.13-12.48.47:100][717]LogSlate: Window 'Color Picker' being destroyed
+[2021.12.13-12.48.47:130][719]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 14
+[2021.12.13-12.48.47:271][729]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 13
+[2021.12.13-12.48.47:391][739]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 12
+[2021.12.13-12.48.47:439][743]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 11
+[2021.12.13-12.48.47:715][764]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 10
+[2021.12.13-12.48.48:034][790]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 9
+[2021.12.13-12.48.48:076][794]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 8
+[2021.12.13-12.48.48:202][806]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 7
+[2021.12.13-12.48.48:315][817]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 6
+[2021.12.13-12.48.48:356][821]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 5
+[2021.12.13-12.48.48:673][850]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 4
+[2021.12.13-12.48.48:715][854]LogMaterial: Display: Missing cached shader map for material MT_Fade, compiling. 
+[2021.12.13-12.48.48:719][854]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 3
+[2021.12.13-12.48.48:727][854]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2021.12.13-12.48.48:967][869]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 14
+[2021.12.13-12.48.49:083][878]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 13
+[2021.12.13-12.48.49:213][886]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 12
+[2021.12.13-12.48.49:261][890]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 11
+[2021.12.13-12.48.49:522][909]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 10
+[2021.12.13-12.48.49:611][918]LogMaterialEditor: Saving and Compiling material MT_Fade
+[2021.12.13-12.48.50:085][918]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 9
+[2021.12.13-12.48.50:085][918]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 8
+[2021.12.13-12.48.50:085][918]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 7
+[2021.12.13-12.48.50:086][918]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 6
+[2021.12.13-12.48.50:086][918]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 5
+[2021.12.13-12.48.50:099][918]LogMaterial: Display: Missing cached shader map for material MT_Fade, compiling. 
+[2021.12.13-12.48.50:135][918]LogMaterial: Display: Missing cached shader map for material MT_Fade, compiling. 
+[2021.12.13-12.48.50:157][918]LogUObjectHash: Compacting FUObjectHashTables data took   1.64ms
+[2021.12.13-12.48.50:164][918]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.12.13-12.48.50:726][918]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 26
+[2021.12.13-12.48.50:726][918]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 25
+[2021.12.13-12.48.50:726][918]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 24
+[2021.12.13-12.48.50:726][918]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 23
+[2021.12.13-12.48.51:285][918]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 22
+[2021.12.13-12.48.51:285][918]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 21
+[2021.12.13-12.48.51:285][918]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 20
+[2021.12.13-12.48.51:285][918]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 19
+[2021.12.13-12.48.51:285][918]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 18
+[2021.12.13-12.48.51:844][918]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 17
+[2021.12.13-12.48.51:844][918]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 16
+[2021.12.13-12.48.51:844][918]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 15
+[2021.12.13-12.48.51:844][918]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 14
+[2021.12.13-12.48.51:844][918]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 13
+[2021.12.13-12.48.52:216][918]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 12
+[2021.12.13-12.48.52:216][918]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 11
+[2021.12.13-12.48.52:216][918]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 10
+[2021.12.13-12.48.52:216][918]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 4
+[2021.12.13-12.48.52:218][918]TextureStreamingBuild: Display: Compiling optional shaders took 2.059 seconds.
+[2021.12.13-12.48.52:231][918]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2021.12.13-12.48.52:842][918]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 1
+[2021.12.13-12.48.53:429][918]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ENV/FX/Materials/MT_Fade" FILE="../../../../GameJam_RunnerChad/GameJam_RunnerChad/GameJam_Runner/Content/ENV/FX/Materials/MT_Fade.uasset" SILENT=true
+[2021.12.13-12.48.53:434][918]LogSavePackage: Moving '../../../../GameJam_RunnerChad/GameJam_RunnerChad/GameJam_Runner/Saved/MT_Fade31EB9F3E4684AF6F8C0D34934C63504D.tmp' to '../../../../GameJam_RunnerChad/GameJam_RunnerChad/GameJam_Runner/Content/ENV/FX/Materials/MT_Fade.uasset'
+[2021.12.13-12.48.53:477][918]AssetCheck: New page: Asset Save: MT_Fade
+[2021.12.13-12.48.53:477][918]LogContentValidation: Display: Validating Material /Game/ENV/FX/Materials/MT_Fade.MT_Fade
+[2021.12.13-12.48.53:477][918]MaterialEditorStats: Base pass shader without light map: 66 instructions
+[2021.12.13-12.48.53:477][918]MaterialEditorStats: Base pass vertex shader: 193 instructions
+[2021.12.13-12.48.53:477][918]MaterialEditorStats: Texture samplers: 4/16
+[2021.12.13-12.48.53:477][918]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2021.12.13-12.49.02:202][885]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2021.12.13-12.49.15:561][479]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Sphere)
+[2021.12.13-12.49.35:446][848]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2021.12.13-12.49.36:195][934]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Sphere)
+[2021.12.13-12.49.39:638][332]Cmd: DELETE
+[2021.12.13-12.49.39:638][332]Cmd: ACTOR DELETE
+[2021.12.13-12.49.39:642][332]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.12.13-12.49.39:642][332]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.12.13-12.49.39:642][332]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.12.13-12.49.39:643][332]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.12.13-12.49.39:643][332]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.12.13-12.49.39:643][332]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.12.13-12.49.39:644][332]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.12.13-12.49.39:644][332]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.12.13-12.49.39:644][332]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.12.13-12.49.39:645][332]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.12.13-12.49.39:657][332]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2021.12.13-12.49.39:659][332]LogEditorActor: Deleted 10 Actors (0.020 secs)
+[2021.12.13-12.50.12:212][886]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (FadeOff_Sphere)
+[2021.12.13-12.50.32:744][240]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2021.12.13-12.50.32:749][240]LogSavePackage: Moving '../../../../GameJam_RunnerChad/GameJam_RunnerChad/GameJam_Runner/Saved/LVL_LightFA1811614CA789D26CD5AD84B700590E.tmp' to '../../../../GameJam_RunnerChad/GameJam_RunnerChad/GameJam_Runner/Content/LEVEL/MAP/LVL_Light.umap'
+[2021.12.13-12.50.32:761][240]AssetCheck: New page: Asset Save: LVL_Light
+[2021.12.13-12.50.32:761][240]LogContentValidation: Display: Validating World /Game/LEVEL/MAP/LVL_Light.LVL_Light
